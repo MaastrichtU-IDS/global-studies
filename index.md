@@ -6,9 +6,19 @@
 
 This website contains a collection of  tutorials, developed at the University of Maastricht for our students in Global Studies that use python. 
 
-The goal is to organize relevant material for quantiative methods, more efficient and reusable, that can be used across semesters, and that are accessible to students during and after their studies.
+The goal is to organize relevant material for quantiative methods in a efficient manner, that can be findable and accessible and reusable to students during and after their studies, and can be used across semesters.
 
 ![](https://www.maastrichtuniversity.nl/sites/default/files/styles/page_photo/public/global_studies_logo_2.jpg?itok=NzXDp5cZ)
+
+## Tutorial 1:
+Today is an introduction to statistics and coding in Python for our students in Global Studies. This tutorial references JupyterLab, but can be taught using a regular Python interpreter as well as Google Colab. Please note that this tutorial uses Python 3.
+
+## Tutorial objectives:
+Today we aim to get prepare for our Assignment 1. For that, our goals are:
+
+1. Install anaconda and JupyterLab in your computer.
+2. Create a notebook in save it as PDF.
+3. Get familiar with python and Jupyter Lab
 
 ## Jupyter Notebooks
 Today we will focus on the following:
