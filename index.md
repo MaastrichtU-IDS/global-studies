@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+ 
 
-You can use the [editor on GitHub](https://github.com/MaastrichtU-IDS/global-studies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Global Studies Method Track Website
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This website contains a collection of  tutorials, developed at the University of Maastricht for our students in Global Studies that use python. 
 
-```markdown
-Syntax highlighted code block
+The goal is to organize relevant material for quantiative methods, more efficient and reusable, that can be used across semesters, and that are accessible to students during and after their studies.
 
-# Header 1
-## Header 2
-### Header 3
+![](https://www.maastrichtuniversity.nl/sites/default/files/styles/page_photo/public/global_studies_logo_2.jpg?itok=NzXDp5cZ)
 
-- Bulleted
-- List
+## Jupyter Notebooks
+Today we will focus on the following:
++ [Variables and basic operations](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1_1-variables-and-assig.ipynb)
++ [Data Types](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1_2-data-types.ipynb)
++ [Built-in functions and libraries](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1_3-built-in-functions-and-libraries.ipynb)
++ [For Loops and List](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1_4-for-loops.ipynb)
++ [Customized functions](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1_5-writing-functions.ipynb)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## License
 
-[Link](url) and ![Image](src)
-```
+### Code
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The code in this repository, including all code samples in the notebooks listed above, is released under the [MIT license](LICENSE-CODE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
 
-### Jekyll Themes
+### Text
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaastrichtU-IDS/global-studies/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The text content of the book is released under the [CC-BY-NC-ND license](LICENSE-TEXT). Read more at [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode).
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<img src="https://avatars.githubusercontent.com/u/36262526?s=280&v=4" style="zoom:33%;" />
