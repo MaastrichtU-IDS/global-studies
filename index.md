@@ -13,14 +13,14 @@ The goal is to organize relevant material for quantiative methods in a efficient
 ## Tutorial 1
 Today is an introduction to statistics and coding in Python for our students in Global Studies. This tutorial references JupyterLab, but can be taught using a regular Python interpreter as well as Google Colab. Please note that this tutorial uses Python 3.
 
-## Tutorial objectives
+### Tutorial 1 objectives
 Today we aim to get ready for our Assignment 1. Thus, our specific objectives are:
 
 1. Install anaconda and JupyterLab in your computer
-2. Create a notebook in save it as PDF
+2. Create a notebook and save it as PDF
 3. Get familiar with python and Jupyter Lab
 
-## Jupyter Notebooks
+### Jupyter Notebooks
 Today we will focus on the following:
 + [Variables and basic operations](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1_1-variables-and-assig.ipynb)
 + [Data Types](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1_2-data-types.ipynb)
