@@ -14,7 +14,7 @@ The goal is to organize relevant material for quantiative methods in a efficient
 Today is an introduction to statistics and coding in Python for our students in Global Studies. This tutorial references JupyterLab, but can be taught using a regular Python interpreter as well as Google Colab. Please note that this tutorial uses Python 3.
 
 ## Tutorial objectives
-Today we aim to get prepare for our Assignment 1. For that, our goals are:
+Today we aim to get ready for our Assignment 1. Thus, our specific objectives are:
 
 1. Install anaconda and JupyterLab in your computer.
 2. Create a notebook in save it as PDF.
