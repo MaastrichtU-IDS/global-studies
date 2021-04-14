@@ -16,8 +16,8 @@ Today is an introduction to statistics and coding in Python for our students in 
 ## Tutorial objectives
 Today we aim to get ready for our Assignment 1. Thus, our specific objectives are:
 
-1. Install anaconda and JupyterLab in your computer.
-2. Create a notebook in save it as PDF.
+1. Install anaconda and JupyterLab in your computer
+2. Create a notebook in save it as PDF
 3. Get familiar with python and Jupyter Lab
 
 ## Jupyter Notebooks
