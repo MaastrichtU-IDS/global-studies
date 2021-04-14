@@ -1,0 +1,702 @@
+Timestamp,Age,Gender,"Height (scale in cm, e.g. 183)",Where are you come from? (Country),Were your parents born from the same country as you?,How many language you speak at home to your family?,Religion denomination,Which academic field are you studying?,How many different countries have you lived in?,What is the temperature in degrees celsius right now?,Past intercultural experience: have you ever done one of the following international programs?,Indicate how strong you agree/disagree with the following sentence: [Q1. I enjoy being with people who have different values],Indicate how strong you agree/disagree with the following sentence: [Q2. I would rather work with someone who is like me than with someone who is different],Indicate how strong you agree/disagree with the following sentence: [Q3. I prefer being with people who have similar ways of thinking and values to mine],Indicate how strong you agree/disagree with the following sentence: [Q4. I often read and watch news about foreign countries],Indicate how strong you agree/disagree with the following sentence: [Q5. I have strong interest in international affairs],Indicate how strong you agree/disagree with the following sentence: [Q6. I often talk about situations and events in foreign countries with family and or friends],Indicate how strong you agree/disagree with the following sentence: [Q7. I am very interested in volunteer work in developing countries],Indicate how strong you agree/disagree with the following sentence: [Q8. I plan to be involved in international volunteer activities],Q1. People like you,Q2. Your national companies,Q3. Creation of jobs,Q4. Our quality of life,Q5. your national cultural history and traditions,Q6. your ability to learn about other cultures,Q7. Democracy and human rights,Q8. Maintaining cultural diversity in the world,Q9. The environment,Q10. Spread out COVID19,Q11. I have changed my opinion about the positive impact of globalization on humankind due to COVID19
+Septembre,34,0,186,Spain,yes,1,Do not belong to a any religion,Mathematics and Statistics,5,26,Volunteer service,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,1,1,1,3,3,2,3,2,2,2,yes
+March,34,6,157,BR,no,2,Orthodox,Natural Science,3,-4,Internship program,Strongly Agree,Strongly Agree,Agree,Agree,Disagree,Disagree,Disagree,Disagree,5,3,5,5,3,3,1,2,1,3,yes
+April,27,8,191,RU,no,4,Protestant,Social Science,2,1,Studying school abroad,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,2,2,1,3,1,4,4,3,3,1,no
+April,35,5,165,RU,no,3,Roman Catholic,Business & Admin and Law,5,2,Studying school abroad,Disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,Agree,Agree,Agree,5,4,2,2,1,3,5,1,3,3,no
+March,34,2,164,ID,yes,5,Do not belong to a any religion,Arts and Humanities,5,7,Studying school abroad,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Disagree,Disagree,Agree,5,5,5,2,4,3,5,5,2,5,yes
+August,,2,165,ID,yes,3,Other Christian,Social Science,3,26,Studying school abroad,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Agree,Agree,Disagree,Agree,1,4,1,4,2,5,2,2,2,5,no
+August,32,4,150,ID,yes,3,Don't know,Arts and Humanities,5,11,Volunteer service,Strongly Agree,Agree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Agree,Strongly Disagree,4,1,2,1,5,1,4,5,2,4,no
+February,39,8,173,CN,no,4,Hindu,Social Science,5,-2,Studying school abroad,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,2,2,4,4,2,5,2,3,2,5,yes
+June,29,9,177,AL,no,2,Don't know,Information and Communication Technologies,1,13,None,Strongly Disagree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,1,2,3,3,1,1,1,1,5,2,no
+April,19,2,159,NI,no,2,Hindu,Arts and Humanities,4,13,None,Disagree,Strongly Disagree,,Strongly Disagree,Agree,Agree,Disagree,Disagree,3,3,5,1,4,3,5,3,5,3,yes
+August,18,6,188,UA,,2,Do not belong to a any religion,Natural Science,1,9,Volunteer service,,,,,Strongly Agree,Disagree,Agree,,,,,,,,,,,,
+May,,10,179,ID,yes,3,Do not belong to a any religion,Information and Communication Technologies,1,15,Studying school abroad,Strongly Agree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Agree,2,1,4,4,4,5,1,5,2,5,yes
+February,38,9,169,CN,,4,Buddhist,Arts and Humanities,4,18,Volunteer service,Strongly Disagree,Strongly Disagree,,Agree,Agree,Agree,Strongly Disagree,,,,,,,,,,,,
+March,25,9,193,ID,no,4,Hindu,Social Science,3,9,Studying school abroad,Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,4,3,2,3,1,2,2,5,5,2,yes
+March,23,1,175,CZ,yes,2,Roman Catholic,Information and Communication Technologies,4,-5,None,Disagree,Strongly Disagree,,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,1,1,3,5,1,1,1,3,1,4,yes
+May,28,2,185,DE,no,3,Jew,Information and Communication Technologies,2,20,Internship program,,,Agree,,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,3,3,2,4,2,1,1,1,4,5,no
+June,19,8,161,PA,,1,Protestant,Arts and Humanities,1,23,Studying school abroad,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Strongly Disagree,Agree,,,,,,,,,,,,
+August,33,2,154,RU,,,,Natural Science,,,,Agree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Strongly Agree,,,,,,,,,,,,
+March,36,6,153,RU,,5,Roman Catholic,Business & Admin and Law,3,22,Volunteer service,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,,,,,,,,,,,,
+May,40,1,193,CN,yes,5,Roman Catholic,Social Science,1,27,Internship program,Agree,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Agree,Agree,1,2,1,1,3,1,4,2,4,1,no
+July,,7,175,FR,,1,Roman Catholic,Arts and Humanities,1,25,Studying school abroad,Strongly Disagree,Agree,Agree,Agree,Agree,Strongly Disagree,Strongly Disagree,,,,,,,,,,,,
+May,31,9,176,AR,,2,Roman Catholic,Social Science,1,20,None,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Strongly Agree,,,,,,,,,,,,
+August,31,5,174,CA,no,5,Protestant,Natural Science,4,-3,None,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Strongly Agree,Disagree,Agree,2,2,3,3,5,4,5,5,5,5,yes
+August,31,3,173,RU,yes,5,Orthodox,Business & Admin and Law,4,1,Studying school abroad,Disagree,Agree,Strongly Agree,Agree,Agree,Strongly Disagree,Disagree,Disagree,3,5,4,5,3,3,2,2,3,4,no
+February,31,5,162,PH,no,4,Buddhist,Mathematics and Statistics,5,-3,Studying school abroad,Disagree,Disagree,Agree,Disagree,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,3,2,5,4,3,2,5,1,4,3,no
+February,21,1,185,BR,no,2,Other Christian,Natural Science,4,1,Internship program,Strongly Agree,Disagree,Strongly Agree,Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,5,4,1,1,2,1,3,1,3,1,yes
+July,29,7,173,MN,yes,5,Roman Catholic,Natural Science,2,20,Volunteer service,Strongly Agree,Strongly Agree,Disagree,Agree,Strongly Disagree,Disagree,Agree,Disagree,3,3,3,4,2,1,4,2,5,4,yes
+February,,2,158,SE,yes,1,Other Christian,Information and Communication Technologies,5,9,Studying school abroad,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Agree,Agree,Agree,3,3,3,3,2,4,5,5,1,4,yes
+August,38,1,179,PL,,2,Orthodox,Arts and Humanities,1,14,None,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Strongly Disagree,,,,,,,,,,,,
+May,40,1,174,CN,yes,3,Hindu,Arts and Humanities,2,-4,Volunteer service,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Disagree,2,4,5,1,3,3,4,4,3,2,no
+August,22,5,187,BR,no,1,Other,Mathematics and Statistics,5,1,Volunteer service,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,3,2,3,1,5,3,2,5,1,4,yes
+July,31,9,153,CZ,no,4,Buddhist,Social Science,1,-3,Studying school abroad,Agree,Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,1,5,5,1,5,4,1,5,1,3,yes
+August,21,7,178,CN,,5,Orthodox,Natural Science,2,3,Volunteer service,,,Disagree,,Agree,Strongly Agree,Strongly Disagree,,,,,,,,,,,,
+July,33,7,192,CN,no,4,Orthodox,Arts and Humanities,4,20,Internship program,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree,3,3,5,2,4,4,2,2,4,1,no
+May,18,10,196,CN,no,2,Other,Arts and Humanities,1,25,Internship program,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Agree,Agree,Strongly Agree,1,2,1,3,3,3,5,1,5,5,yes
+February,25,9,176,NL,no,,,Arts and Humanities,,,,Strongly Disagree,Agree,Disagree,Agree,Strongly Agree,Strongly Agree,Agree,Disagree,5,5,2,2,1,1,2,5,3,3,no
+April,25,4,192,CN,yes,5,Roman Catholic,Business & Admin and Law,2,3,Internship program,Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,1,5,2,3,3,1,4,5,2,3,yes
+July,18,3,163,UA,,5,Don't know,Mathematics and Statistics,3,20,None,Strongly Disagree,Strongly Disagree,,Strongly Agree,Strongly Agree,Strongly Disagree,Agree,,,,,,,,,,,,
+June,25,7,163,BG,,,,Social Science,,,,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,,,,,,,,,,,,
+April,34,8,171,CN,no,5,Don't know,Social Science,5,7,Volunteer service,Disagree,Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,3,1,5,3,1,1,3,5,3,4,yes
+June,35,3,190,CN,yes,,,Mathematics and Statistics,,,,Disagree,Strongly Disagree,,Disagree,Agree,Disagree,Disagree,Strongly Disagree,1,4,3,1,2,4,2,2,4,3,yes
+April,23,2,186,SY,no,3,Buddhist,Arts and Humanities,5,7,Studying school abroad,Strongly Disagree,Disagree,Agree,Agree,Agree,Disagree,Strongly Agree,Strongly Agree,2,3,5,3,5,5,5,3,1,3,no
+May,24,5,176,CN,no,2,Other Christian,Information and Communication Technologies,3,10,None,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Disagree,Strongly Disagree,5,5,4,3,4,5,2,2,2,5,yes
+February,18,10,157,PH,,4,Roman Catholic,Information and Communication Technologies,4,-5,Internship program,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Agree,,,,,,,,,,,,
+June,21,2,152,CN,no,4,Hindu,Business & Admin and Law,1,27,Volunteer service,Strongly Agree,Strongly Agree,Agree,Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,1,5,3,1,2,2,1,4,5,2,yes
+July,26,5,183,JP,yes,3,Hindu,Mathematics and Statistics,2,-3,Internship program,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,2,2,1,2,4,1,2,5,5,2,no
+April,30,7,198,CN,no,4,Hindu,Mathematics and Statistics,1,25,Volunteer service,,,Strongly Disagree,,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,3,5,3,3,2,1,5,3,3,1,no
+March,33,5,172,ID,yes,5,Other,Natural Science,3,21,Internship program,Disagree,Disagree,,Agree,Strongly Disagree,Strongly Disagree,Agree,Disagree,3,3,2,4,3,4,5,3,3,1,yes
+May,28,9,160,PS,yes,5,Don't know,Business & Admin and Law,5,-3,None,Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Agree,Disagree,2,3,4,4,2,3,1,5,5,4,yes
+March,20,3,198,FR,yes,4,Roman Catholic,Social Science,1,-3,Studying school abroad,Disagree,Strongly Disagree,Agree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,2,1,3,1,2,3,1,2,5,3,no
+March,18,7,188,US,no,2,Don't know,Mathematics and Statistics,2,15,Studying school abroad,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,1,2,2,2,1,4,2,3,2,3,no
+May,37,1,172,ID,no,2,Other Christian,Business & Admin and Law,3,17,None,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Disagree,Disagree,3,2,1,1,3,3,2,5,1,1,no
+April,19,10,185,CN,yes,1,Jew,Mathematics and Statistics,2,-5,Internship program,Strongly Disagree,Strongly Agree,,Strongly Disagree,Agree,Strongly Agree,Disagree,Strongly Agree,1,2,1,1,3,3,5,1,2,3,yes
+April,34,10,170,PH,no,5,Don't know,Natural Science,4,-1,None,Agree,Strongly Disagree,Disagree,Agree,Strongly Disagree,Agree,Agree,Agree,4,1,3,4,5,4,3,5,3,4,no
+June,25,6,193,MX,no,4,Roman Catholic,Mathematics and Statistics,3,1,Internship program,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Agree,Disagree,1,3,4,2,3,3,2,4,3,1,no
+March,20,8,156,CN,yes,1,Do not belong to a any religion,Social Science,2,17,None,,,,,Strongly Disagree,Strongly Disagree,Agree,Agree,4,1,1,4,5,4,2,2,4,2,yes
+February,35,9,165,PH,,2,Other,Information and Communication Technologies,1,26,None,Agree,Strongly Agree,,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,,,,,,,,,,,,
+April,21,2,165,PL,no,5,Other,Mathematics and Statistics,5,-1,Studying school abroad,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,4,2,5,5,3,4,1,1,5,3,no
+June,31,7,157,CN,no,5,Do not belong to a any religion,Information and Communication Technologies,5,17,Studying school abroad,Disagree,Disagree,Disagree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,3,1,5,5,4,4,5,2,1,2,no
+May,40,4,158,CN,yes,2,Orthodox,Information and Communication Technologies,1,13,Volunteer service,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Strongly Agree,Disagree,1,5,1,3,5,3,2,5,3,4,no
+August,22,3,157,CZ,yes,2,Do not belong to a any religion,Business & Admin and Law,1,5,Internship program,Agree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Disagree,1,4,2,2,2,2,3,5,5,5,no
+August,29,5,179,CO,yes,3,Other,Arts and Humanities,4,23,None,Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,1,4,3,3,1,1,2,4,1,5,no
+July,,7,186,LK,,5,Roman Catholic,Business & Admin and Law,5,-4,Studying school abroad,Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,,,,,,,,,,,,
+April,40,1,196,ID,no,4,Do not belong to a any religion,Natural Science,1,-5,Internship program,Disagree,Disagree,,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,2,5,3,2,2,1,5,1,5,4,no
+March,21,6,197,BE,yes,1,Jew,Social Science,2,19,Volunteer service,Strongly Agree,Strongly Disagree,,Strongly Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,4,3,5,3,3,3,3,2,3,4,no
+May,30,6,171,CZ,,1,Other Christian,Social Science,1,-3,None,Agree,Agree,Disagree,Agree,Agree,Strongly Agree,Agree,,,,,,,,,,,,
+March,30,6,181,US,no,,,Business & Admin and Law,,,,Strongly Agree,Agree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,3,2,1,3,2,2,4,4,2,1,yes
+February,23,3,165,PL,no,1,Do not belong to a any religion,Social Science,5,1,Volunteer service,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,1,1,5,2,2,4,3,1,1,4,yes
+May,33,6,188,CN,no,2,Don't know,Mathematics and Statistics,4,0,Studying school abroad,Strongly Disagree,Agree,,Disagree,Strongly Disagree,Disagree,Agree,Strongly Disagree,1,1,1,5,1,1,1,4,3,4,yes
+May,,5,172,DO,yes,4,Buddhist,Natural Science,5,26,None,Disagree,Strongly Agree,,Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,1,1,3,4,2,5,5,1,2,3,no
+August,33,3,174,CO,,1,Other,Arts and Humanities,5,23,Volunteer service,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Agree,Disagree,,,,,,,,,,,,
+April,28,9,167,BO,no,3,Protestant,Information and Communication Technologies,2,9,Internship program,Disagree,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Strongly Disagree,5,3,2,2,2,2,3,4,2,5,yes
+July,33,2,165,ID,yes,3,Protestant,Arts and Humanities,3,22,None,Strongly Disagree,Strongly Disagree,,Disagree,Strongly Agree,Agree,Disagree,Agree,5,1,1,5,1,5,3,2,2,1,yes
+March,,3,197,CN,yes,5,Other Christian,Mathematics and Statistics,5,2,Volunteer service,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,1,2,4,2,2,5,2,1,1,3,no
+April,30,7,164,VN,yes,1,Don't know,Information and Communication Technologies,1,16,None,Strongly Disagree,Disagree,Strongly Agree,Agree,Disagree,Strongly Disagree,Agree,Strongly Disagree,4,5,2,3,1,5,5,5,5,4,no
+August,33,4,189,PL,no,3,Jew,Mathematics and Statistics,4,13,Volunteer service,Disagree,Agree,,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Disagree,3,2,3,1,2,2,5,4,3,3,no
+August,28,9,199,RU,yes,1,Other,Social Science,2,8,Internship program,Strongly Disagree,Strongly Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Agree,4,2,2,4,5,4,1,5,2,5,no
+April,23,1,174,PH,no,1,Hindu,Social Science,4,16,Studying school abroad,Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,1,4,3,2,3,4,3,5,5,3,no
+August,40,5,194,CA,yes,5,Don't know,Information and Communication Technologies,1,3,Volunteer service,Agree,Strongly Disagree,,Agree,Agree,Agree,Agree,Strongly Agree,2,3,2,5,1,2,4,5,1,5,no
+August,19,1,165,US,yes,2,Buddhist,Business & Admin and Law,1,13,Volunteer service,,,Strongly Disagree,,Strongly Agree,Disagree,Agree,Agree,1,4,4,3,3,5,2,4,4,2,yes
+July,35,7,177,RU,yes,1,Buddhist,Information and Communication Technologies,4,4,Studying school abroad,Strongly Agree,Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Agree,Disagree,1,1,4,4,3,3,5,5,1,3,yes
+April,35,9,189,SI,yes,3,Jew,Business & Admin and Law,4,21,None,Disagree,Agree,,Disagree,Disagree,Strongly Disagree,Agree,Agree,3,4,2,3,4,3,4,5,1,2,yes
+April,37,8,192,CN,yes,1,Roman Catholic,Arts and Humanities,1,1,Volunteer service,Strongly Agree,Disagree,Disagree,Strongly Disagree,Agree,Agree,Agree,Agree,1,3,1,1,3,2,5,3,5,4,yes
+August,21,6,199,PH,no,1,Protestant,Business & Admin and Law,3,25,Internship program,Agree,Strongly Agree,Disagree,Agree,Agree,Agree,Agree,Strongly Disagree,4,4,4,5,2,2,3,3,4,5,yes
+August,28,10,154,PE,yes,3,Hindu,Mathematics and Statistics,3,13,None,Disagree,Strongly Agree,Disagree,Strongly Agree,Disagree,Agree,Strongly Agree,Strongly Agree,1,1,5,4,5,1,4,5,2,3,no
+June,30,5,176,ID,no,4,Other,Business & Admin and Law,3,-5,Studying school abroad,Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,1,4,5,3,4,5,3,3,4,4,yes
+February,37,6,176,PH,no,4,Do not belong to a any religion,Mathematics and Statistics,3,19,Volunteer service,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,Disagree,Strongly Agree,Strongly Agree,4,5,2,4,3,3,1,4,3,2,no
+May,30,9,176,LU,yes,3,Jew,Mathematics and Statistics,1,26,Studying school abroad,Disagree,Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Disagree,Agree,1,1,4,5,3,1,5,4,1,2,yes
+August,31,3,171,CN,yes,4,Other,Arts and Humanities,4,3,None,Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,5,3,2,3,1,4,3,1,4,1,yes
+February,20,1,196,PH,,1,Hindu,Social Science,5,18,None,Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,Disagree,,,,,,,,,,,,
+August,32,7,183,CN,no,3,Jew,Arts and Humanities,5,11,None,Disagree,Agree,,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Disagree,2,1,4,2,4,3,2,2,1,4,no
+August,26,1,162,CN,no,3,Buddhist,Social Science,2,-3,Studying school abroad,Agree,Agree,,Agree,Agree,Agree,Strongly Disagree,Strongly Disagree,1,4,5,2,4,3,2,2,3,3,no
+April,27,3,169,ID,no,1,Don't know,Business & Admin and Law,3,0,Volunteer service,Strongly Agree,Agree,,Strongly Agree,Disagree,Agree,Strongly Disagree,Agree,1,1,4,1,4,3,3,1,5,4,yes
+May,32,4,194,FR,no,3,Orthodox,Information and Communication Technologies,5,7,Internship program,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Disagree,Agree,4,3,4,2,4,4,4,1,1,5,no
+May,,7,184,EG,no,5,Protestant,Information and Communication Technologies,4,27,None,Disagree,Agree,Agree,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,3,3,4,1,1,3,5,4,5,4,no
+June,36,3,150,CN,no,3,Don't know,Natural Science,2,2,Internship program,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,Agree,Agree,Agree,3,1,2,2,2,1,4,1,5,4,no
+June,36,9,153,CN,no,2,Jew,Information and Communication Technologies,1,7,Studying school abroad,Agree,Agree,Strongly Disagree,Agree,Agree,Strongly Agree,Disagree,Agree,5,5,4,4,5,3,5,5,1,3,yes
+August,24,4,161,HU,no,2,Jew,Arts and Humanities,4,1,Volunteer service,Disagree,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,1,4,3,5,5,4,1,5,5,2,no
+May,33,3,196,IE,yes,4,Jew,Mathematics and Statistics,5,19,Studying school abroad,Disagree,Disagree,Agree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Disagree,3,1,1,5,3,2,2,4,1,4,yes
+June,30,1,193,TH,yes,2,Protestant,Business & Admin and Law,2,17,Internship program,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Disagree,Disagree,Agree,Disagree,3,4,5,5,1,3,3,3,1,3,yes
+March,,5,200,PE,,1,Other,Business & Admin and Law,4,12,Volunteer service,Strongly Agree,Strongly Agree,,Disagree,Strongly Agree,Strongly Agree,Disagree,,,,,,,,,,,,
+May,18,9,170,ID,yes,5,Buddhist,Arts and Humanities,4,-5,Volunteer service,Strongly Disagree,Strongly Disagree,Agree,Agree,Strongly Agree,Disagree,Agree,Agree,4,3,4,1,1,3,3,5,2,3,no
+April,25,3,160,KE,yes,5,Don't know,Mathematics and Statistics,4,10,Studying school abroad,Strongly Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,Agree,Agree,Strongly Disagree,1,3,1,1,3,1,4,4,3,1,yes
+May,18,2,175,ID,no,4,Buddhist,Social Science,3,-5,Volunteer service,Disagree,Agree,Agree,Strongly Agree,Disagree,Strongly Agree,Agree,Agree,4,5,3,2,2,2,2,1,5,3,no
+February,29,10,182,DE,yes,,,Arts and Humanities,,,,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Agree,4,3,2,3,4,2,3,2,3,5,no
+February,28,7,160,ID,yes,5,Protestant,Natural Science,4,20,Volunteer service,Disagree,Agree,Disagree,Disagree,Agree,Disagree,Strongly Agree,Strongly Agree,3,5,4,2,3,5,1,4,2,4,yes
+March,31,10,182,JP,yes,1,Do not belong to a any religion,Arts and Humanities,5,3,Studying school abroad,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,3,3,4,3,2,3,1,2,3,5,yes
+February,31,7,163,CN,no,,,Mathematics and Statistics,,,,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Disagree,Agree,Strongly Disagree,2,2,4,3,1,4,4,1,1,1,no
+August,22,3,171,FI,yes,5,Hindu,Mathematics and Statistics,5,16,Volunteer service,Disagree,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,2,2,3,4,4,1,4,3,5,2,yes
+February,28,7,197,BR,no,5,Don't know,Information and Communication Technologies,3,0,Studying school abroad,Disagree,Disagree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Disagree,2,4,3,1,3,3,3,5,4,3,no
+March,29,8,197,ID,no,2,Orthodox,Arts and Humanities,4,23,Internship program,Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,2,4,1,3,3,3,4,1,3,2,no
+May,19,6,157,CN,yes,4,Other Christian,Natural Science,2,6,Internship program,Disagree,Strongly Disagree,,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,5,2,4,1,4,3,4,2,3,2,yes
+June,20,4,191,CN,no,5,Hindu,Mathematics and Statistics,1,16,None,Agree,Disagree,Agree,Disagree,Agree,Agree,Disagree,Strongly Disagree,3,3,3,2,1,5,4,3,3,4,yes
+June,19,9,171,ID,yes,4,Hindu,Social Science,3,16,Volunteer service,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Disagree,1,3,2,1,5,1,1,3,1,1,yes
+August,29,5,184,CN,no,4,Jew,Arts and Humanities,4,18,Volunteer service,Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,1,1,1,1,4,2,1,4,5,1,yes
+June,38,6,196,PE,no,1,Other Christian,Information and Communication Technologies,3,-4,Volunteer service,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,5,4,2,1,3,4,5,3,1,5,yes
+February,27,7,166,NL,no,4,Hindu,Arts and Humanities,2,9,Volunteer service,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,Disagree,Agree,5,3,1,1,4,1,3,3,4,1,yes
+February,38,3,198,PH,,2,Hindu,Arts and Humanities,1,15,Studying school abroad,Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,,,,,,,,,,,,
+April,19,4,171,NG,yes,5,Don't know,Mathematics and Statistics,3,5,Internship program,Strongly Agree,Agree,Disagree,Disagree,Disagree,Strongly Agree,Strongly Agree,Disagree,1,1,3,1,3,1,2,5,5,5,no
+April,38,8,166,PL,yes,5,Orthodox,Mathematics and Statistics,2,22,Studying school abroad,Disagree,Strongly Disagree,,Strongly Disagree,Strongly Agree,Disagree,Disagree,Strongly Disagree,5,2,5,1,1,3,5,2,2,3,yes
+May,25,6,162,SE,no,2,Hindu,Information and Communication Technologies,1,17,None,Agree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,1,3,3,1,5,5,2,3,4,1,no
+August,32,9,192,RU,yes,2,Other Christian,Arts and Humanities,1,8,Studying school abroad,,,Strongly Disagree,,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,3,3,2,5,5,3,4,5,2,1,no
+February,28,9,171,ID,no,3,Buddhist,Mathematics and Statistics,2,-2,Volunteer service,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,3,4,2,5,5,2,5,2,2,2,yes
+April,,2,168,ID,yes,3,Other,Information and Communication Technologies,2,18,Internship program,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,5,3,3,1,2,5,3,3,1,5,no
+April,39,2,179,CN,no,1,Don't know,Arts and Humanities,2,18,Volunteer service,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Agree,Agree,1,2,3,1,4,2,2,3,2,3,yes
+July,38,8,162,PE,no,4,Do not belong to a any religion,Mathematics and Statistics,5,20,Studying school abroad,,,,,Disagree,Strongly Disagree,Agree,Agree,1,4,2,1,2,5,4,2,5,4,no
+March,30,6,187,SD,no,2,Buddhist,Information and Communication Technologies,4,12,Internship program,Disagree,Agree,Agree,Strongly Agree,Agree,Agree,Disagree,Disagree,1,3,1,5,1,2,5,5,4,1,yes
+May,25,10,199,GR,,5,Buddhist,Mathematics and Statistics,2,27,Internship program,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Agree,Agree,,,,,,,,,,,,
+July,37,7,193,TH,,4,Do not belong to a any religion,Natural Science,3,19,Studying school abroad,Disagree,Strongly Disagree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Disagree,,,,,,,,,,,,
+May,34,3,198,CN,no,4,Orthodox,Information and Communication Technologies,4,-3,Internship program,Strongly Disagree,Agree,Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,Disagree,3,3,1,4,3,2,4,5,2,2,yes
+August,20,6,181,DM,,4,Don't know,Natural Science,5,18,Studying school abroad,Disagree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,,,,,,,,,,,,
+August,23,1,159,PT,yes,3,Hindu,Business & Admin and Law,1,18,None,Agree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Agree,Strongly Agree,3,2,5,5,3,5,1,2,1,3,no
+July,31,6,193,UA,yes,1,Roman Catholic,Arts and Humanities,5,13,Volunteer service,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Disagree,4,5,5,5,4,3,4,1,1,4,yes
+July,38,7,152,PH,no,5,Other Christian,Mathematics and Statistics,2,16,Volunteer service,Strongly Disagree,Disagree,Agree,Strongly Agree,Agree,Agree,Agree,Strongly Disagree,3,3,2,4,1,1,4,5,3,1,yes
+May,22,2,151,CN,no,2,Do not belong to a any religion,Business & Admin and Law,3,22,Internship program,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Disagree,Disagree,Agree,Disagree,2,5,3,2,5,1,1,3,5,1,no
+March,36,7,174,VN,yes,3,Other Christian,Business & Admin and Law,5,10,Internship program,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,4,3,1,5,5,3,3,1,1,5,yes
+July,34,8,173,PL,no,1,Other,Arts and Humanities,4,6,None,Agree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,5,5,3,4,4,4,5,4,2,3,yes
+May,28,8,197,SI,yes,3,Do not belong to a any religion,Business & Admin and Law,5,24,Volunteer service,Disagree,Strongly Agree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,3,5,4,2,2,5,3,4,3,2,no
+April,,2,182,EG,no,2,Do not belong to a any religion,Business & Admin and Law,5,23,Internship program,Agree,Agree,,Disagree,Agree,Strongly Disagree,Agree,Strongly Disagree,5,5,3,5,1,5,5,3,1,1,no
+May,36,9,173,CN,no,4,Other Christian,Information and Communication Technologies,1,9,Internship program,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,Agree,2,3,1,4,5,5,5,2,4,5,no
+April,29,7,168,CZ,yes,1,Buddhist,Social Science,5,25,Volunteer service,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,2,3,5,5,4,5,3,3,2,1,no
+February,20,8,199,CN,yes,3,Orthodox,Mathematics and Statistics,1,15,Volunteer service,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,3,3,2,5,3,2,3,3,2,5,no
+July,31,8,153,PH,yes,4,Protestant,Mathematics and Statistics,4,0,None,Strongly Disagree,Strongly Disagree,,Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,3,2,2,4,2,4,1,2,4,2,yes
+March,39,2,187,BR,no,5,Orthodox,Mathematics and Statistics,4,-1,Studying school abroad,,,Strongly Agree,,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,5,4,4,2,2,3,2,4,4,5,yes
+June,29,5,154,MN,yes,2,Orthodox,Information and Communication Technologies,3,24,Volunteer service,Strongly Disagree,Agree,Agree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Agree,1,4,5,1,3,2,3,2,3,1,no
+June,21,7,175,RU,no,1,Roman Catholic,Social Science,4,20,Studying school abroad,,,Strongly Disagree,,Agree,Disagree,Agree,Strongly Disagree,2,4,4,3,3,3,5,4,4,1,yes
+July,40,6,163,CN,yes,1,Other Christian,Information and Communication Technologies,1,27,Internship program,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Agree,2,3,5,2,3,3,4,2,2,5,yes
+July,,5,182,AR,yes,2,Other Christian,Social Science,3,24,None,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Disagree,Agree,Disagree,5,1,2,4,4,2,4,3,2,2,no
+August,35,2,160,PH,no,1,Do not belong to a any religion,Business & Admin and Law,3,11,Internship program,Strongly Agree,Strongly Disagree,,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,1,5,2,1,3,4,3,2,2,4,yes
+August,,8,160,CN,,5,Other,Business & Admin and Law,2,25,Internship program,Strongly Agree,Strongly Agree,,Strongly Disagree,Strongly Disagree,Agree,Disagree,,,,,,,,,,,,
+July,34,3,155,JM,no,1,Buddhist,Natural Science,4,3,Internship program,Agree,Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,1,2,1,4,1,4,4,5,4,4,yes
+April,25,1,169,CO,yes,3,Roman Catholic,Business & Admin and Law,5,13,Internship program,Disagree,Disagree,,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,2,5,4,5,5,3,2,2,5,4,no
+February,32,8,200,US,yes,4,Buddhist,Information and Communication Technologies,4,2,Volunteer service,Strongly Disagree,Agree,,Strongly Agree,Agree,Strongly Disagree,Disagree,Disagree,2,1,4,2,5,3,2,5,1,3,no
+February,20,2,193,HN,yes,4,Protestant,Arts and Humanities,3,26,Internship program,Strongly Disagree,Strongly Disagree,,Strongly Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,4,1,5,4,1,1,3,1,4,2,no
+May,37,5,172,BR,no,2,Jew,Natural Science,1,10,Studying school abroad,Agree,Strongly Disagree,,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,5,5,2,3,3,3,4,5,1,5,yes
+March,35,10,180,AR,yes,4,Do not belong to a any religion,Natural Science,3,-1,Internship program,Disagree,Strongly Disagree,Agree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,4,5,4,1,2,1,4,3,1,1,no
+May,,7,151,CN,no,1,Don't know,Mathematics and Statistics,4,13,None,Agree,Strongly Disagree,Strongly Agree,Agree,Disagree,Agree,Agree,Strongly Agree,5,1,3,2,5,1,1,1,2,4,yes
+July,36,6,183,ID,yes,1,Other Christian,Mathematics and Statistics,3,27,None,Strongly Disagree,Disagree,,Strongly Disagree,Disagree,Agree,Strongly Disagree,Disagree,1,4,5,2,1,4,4,2,4,1,no
+March,24,10,166,PK,no,2,Protestant,Business & Admin and Law,2,16,Internship program,Agree,Disagree,,Agree,Strongly Disagree,Disagree,Agree,Strongly Agree,1,5,5,1,1,2,4,3,1,1,yes
+May,21,7,154,CA,yes,4,Hindu,Information and Communication Technologies,5,13,Studying school abroad,Strongly Disagree,Agree,Strongly Agree,Disagree,Agree,Disagree,Agree,Strongly Agree,3,2,5,3,5,5,3,4,2,4,yes
+May,25,5,180,BD,no,2,Don't know,Business & Admin and Law,3,-5,Internship program,,,Disagree,,Strongly Agree,Disagree,Agree,Agree,2,2,2,3,5,5,4,2,5,3,no
+April,33,2,179,AR,no,5,Protestant,Information and Communication Technologies,5,8,Internship program,Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,4,4,4,2,4,2,3,3,1,2,yes
+March,22,3,190,BR,,5,Do not belong to a any religion,Mathematics and Statistics,2,19,Volunteer service,Strongly Disagree,Strongly Agree,Agree,Agree,Disagree,Agree,Disagree,,,,,,,,,,,,
+May,25,7,196,ID,,1,Other,Social Science,1,7,Studying school abroad,Disagree,Disagree,Agree,Disagree,Strongly Disagree,Strongly Agree,Agree,,,,,,,,,,,,
+May,37,1,191,BR,yes,2,Hindu,Mathematics and Statistics,4,6,Studying school abroad,Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,2,5,5,4,4,1,4,5,5,1,no
+April,31,7,192,ID,,5,Orthodox,Information and Communication Technologies,2,10,None,Disagree,Strongly Disagree,Agree,Disagree,Strongly Disagree,Agree,Disagree,,,,,,,,,,,,
+May,38,4,168,NO,,2,Buddhist,Arts and Humanities,4,2,Internship program,Disagree,Strongly Agree,,Strongly Disagree,Agree,Disagree,Strongly Agree,,,,,,,,,,,,
+February,37,9,199,BY,yes,2,Hindu,Business & Admin and Law,2,4,Studying school abroad,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,1,3,1,5,4,5,1,1,1,5,yes
+April,,6,172,VE,no,1,Roman Catholic,Social Science,5,24,Studying school abroad,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Agree,Disagree,2,3,3,4,5,3,1,2,3,2,yes
+June,18,7,164,CN,yes,5,Don't know,Information and Communication Technologies,4,15,Internship program,Agree,Agree,Disagree,Disagree,Disagree,Agree,Strongly Disagree,Agree,5,2,3,5,3,5,5,2,3,5,yes
+February,26,6,156,CN,no,3,Other Christian,Information and Communication Technologies,1,4,None,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,Disagree,Disagree,Agree,4,4,5,5,5,4,4,3,2,2,yes
+March,27,8,192,FI,no,1,Hindu,Mathematics and Statistics,1,4,None,Strongly Disagree,Disagree,Agree,Disagree,Agree,Disagree,Agree,Disagree,2,4,5,3,1,1,1,5,3,1,no
+March,29,2,177,HK,no,5,Other Christian,Information and Communication Technologies,3,19,Studying school abroad,Agree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,4,1,2,3,5,1,4,4,4,3,no
+July,24,2,154,PL,yes,1,Protestant,Information and Communication Technologies,5,19,Studying school abroad,Disagree,Strongly Agree,,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,4,1,4,5,1,4,5,5,2,5,no
+August,23,6,162,ID,no,3,Don't know,Arts and Humanities,5,17,Internship program,Disagree,Strongly Agree,Disagree,Agree,Strongly Agree,Disagree,Disagree,Strongly Disagree,4,2,3,2,3,4,3,3,4,3,no
+February,,1,159,CN,no,1,Hindu,Natural Science,5,3,Volunteer service,,,Strongly Agree,,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,5,1,5,5,1,1,5,1,2,1,yes
+August,21,7,158,BR,no,1,Buddhist,Social Science,1,22,None,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,5,4,3,2,1,1,1,4,3,3,no
+July,30,9,153,NZ,yes,3,Other,Arts and Humanities,2,-4,Internship program,Agree,Strongly Agree,Agree,Disagree,Disagree,Agree,Disagree,Disagree,2,3,5,4,1,2,2,5,4,3,yes
+June,37,9,160,HN,yes,,,Mathematics and Statistics,,,,Strongly Disagree,Disagree,Strongly Agree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Agree,5,1,5,1,1,4,5,1,1,1,yes
+May,20,10,183,CN,no,2,Protestant,Arts and Humanities,4,11,None,Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,2,2,3,1,4,5,1,4,5,5,no
+June,31,1,167,JP,yes,1,Orthodox,Arts and Humanities,4,25,Internship program,Strongly Disagree,Agree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Agree,Agree,2,5,2,4,2,5,4,4,2,5,no
+March,20,10,194,CA,yes,2,Protestant,Mathematics and Statistics,3,23,Internship program,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,1,5,4,2,1,1,1,1,3,4,no
+May,24,8,155,CN,no,5,Hindu,Mathematics and Statistics,3,6,Studying school abroad,Agree,Strongly Agree,Disagree,Disagree,Strongly Agree,Agree,Agree,Disagree,4,1,5,5,3,3,1,3,1,5,no
+February,32,6,155,GT,yes,4,Orthodox,Mathematics and Statistics,5,16,Volunteer service,Agree,Agree,Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,3,5,1,4,2,3,2,2,1,4,yes
+March,24,6,180,CR,yes,1,Don't know,Information and Communication Technologies,3,24,Studying school abroad,Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,Disagree,2,3,4,3,5,1,3,5,3,1,yes
+June,23,5,183,RU,no,4,Other,Social Science,3,-2,Internship program,,,,,Strongly Agree,Agree,Strongly Agree,Strongly Agree,5,1,2,2,4,4,2,4,2,2,no
+June,21,5,190,DE,no,3,Jew,Arts and Humanities,5,-4,Studying school abroad,Disagree,Strongly Agree,,Strongly Disagree,Disagree,Strongly Agree,Disagree,Agree,1,2,2,1,4,2,5,2,2,5,no
+June,,9,190,PH,no,4,Roman Catholic,Information and Communication Technologies,3,21,Internship program,Agree,Disagree,Agree,Strongly Agree,Disagree,Agree,Strongly Agree,Strongly Disagree,5,5,5,5,2,5,1,5,2,3,yes
+February,31,4,157,IR,no,5,Other,Natural Science,2,21,Volunteer service,Strongly Agree,Strongly Agree,,Strongly Agree,Agree,Strongly Disagree,Agree,Strongly Agree,2,5,3,2,3,2,1,1,1,4,yes
+June,36,1,152,PS,yes,4,Buddhist,Arts and Humanities,5,2,Volunteer service,Disagree,Strongly Disagree,Disagree,Agree,Agree,Strongly Agree,Disagree,Strongly Agree,2,5,2,1,5,3,1,4,1,1,no
+March,27,10,163,CN,no,3,Hindu,Information and Communication Technologies,2,-1,Internship program,Strongly Agree,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,3,3,3,4,4,4,2,4,4,4,yes
+June,32,4,188,VU,yes,5,Buddhist,Natural Science,4,10,None,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,5,3,3,5,3,1,3,2,5,4,no
+April,21,7,151,ID,,3,Do not belong to a any religion,Mathematics and Statistics,1,25,Studying school abroad,Disagree,Strongly Agree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,,,,,,,,,,,,
+August,18,4,158,PH,no,5,Roman Catholic,Social Science,3,11,Studying school abroad,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,Agree,Agree,5,1,5,2,5,3,4,4,3,2,yes
+February,36,2,163,PH,no,4,Protestant,Information and Communication Technologies,1,26,None,Agree,Disagree,,Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,5,2,5,5,3,2,4,1,3,1,yes
+August,29,4,194,ID,no,1,Hindu,Mathematics and Statistics,4,-4,Volunteer service,,,Strongly Disagree,,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,5,1,4,3,5,3,4,5,5,2,no
+May,21,6,156,CN,,4,Orthodox,Natural Science,1,20,Volunteer service,Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,,,,,,,,,,,,
+June,26,1,197,CZ,no,3,Protestant,Mathematics and Statistics,5,3,Internship program,Agree,Disagree,,Agree,Agree,Disagree,Agree,Strongly Agree,5,3,5,4,5,3,4,4,3,2,no
+June,34,3,191,RU,yes,1,Hindu,Business & Admin and Law,4,11,Volunteer service,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Disagree,1,3,3,5,5,5,2,5,3,4,yes
+February,38,1,176,ID,yes,1,Don't know,Social Science,3,-4,Studying school abroad,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Agree,Disagree,2,5,5,1,5,2,4,4,1,2,yes
+May,20,10,182,ID,no,3,Don't know,Information and Communication Technologies,5,10,None,Strongly Disagree,Agree,Disagree,Strongly Disagree,Disagree,Agree,Agree,Disagree,1,2,2,1,5,5,5,5,2,5,yes
+August,39,4,200,AM,yes,4,Other,Arts and Humanities,5,27,Studying school abroad,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Disagree,2,4,1,1,3,1,1,3,3,5,no
+February,32,2,161,CN,no,2,Other Christian,Arts and Humanities,5,27,Internship program,Strongly Disagree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,5,4,4,3,1,4,3,4,1,2,yes
+June,35,5,192,CN,yes,4,Roman Catholic,Natural Science,1,14,None,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,Disagree,2,3,4,3,3,2,5,2,3,1,yes
+August,40,3,180,LU,yes,5,Other,Mathematics and Statistics,5,19,Internship program,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,4,3,5,3,5,5,5,2,3,4,no
+August,28,8,192,CZ,yes,2,Other,Information and Communication Technologies,1,14,None,Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Strongly Disagree,Disagree,3,1,2,1,5,5,5,1,5,2,yes
+August,,6,153,LK,no,4,Protestant,Arts and Humanities,5,-1,Internship program,Strongly Agree,Disagree,Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,Strongly Agree,4,1,1,5,4,5,2,5,1,5,yes
+April,18,8,173,MK,yes,2,Buddhist,Social Science,3,15,None,Strongly Disagree,Strongly Agree,,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,2,2,1,4,2,3,3,5,3,2,yes
+May,21,6,189,PT,,2,Jew,Mathematics and Statistics,4,26,Internship program,Strongly Agree,Disagree,Agree,Strongly Disagree,Agree,Strongly Agree,Disagree,,,,,,,,,,,,
+March,29,9,198,GR,no,5,Buddhist,Mathematics and Statistics,1,23,None,Agree,Disagree,Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Agree,4,3,4,2,5,4,4,3,3,5,yes
+May,24,2,197,AR,yes,,,Natural Science,,,,Strongly Agree,Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,Strongly Disagree,Disagree,5,1,2,4,1,2,5,3,3,2,yes
+April,39,4,197,RU,yes,3,Protestant,Mathematics and Statistics,2,16,Studying school abroad,Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Disagree,Strongly Agree,4,4,3,3,4,5,1,4,1,1,yes
+July,33,8,150,PT,yes,2,Jew,Mathematics and Statistics,3,21,None,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Strongly Disagree,Agree,Strongly Disagree,2,3,4,1,2,2,1,2,2,5,yes
+April,,5,151,TH,no,4,Protestant,Information and Communication Technologies,5,22,None,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,Disagree,Agree,Strongly Agree,Strongly Disagree,5,3,1,2,4,4,3,4,4,1,yes
+February,33,6,177,RU,no,5,Don't know,Information and Communication Technologies,3,27,None,Agree,Agree,,Agree,Agree,Strongly Agree,Strongly Disagree,Agree,1,1,5,2,4,4,1,5,1,2,no
+February,28,8,198,GR,no,5,Jew,Arts and Humanities,3,22,Studying school abroad,Strongly Disagree,Agree,Agree,Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,3,4,3,5,1,4,1,1,4,2,yes
+March,36,1,155,CN,no,5,Protestant,Mathematics and Statistics,4,3,Studying school abroad,Strongly Agree,Disagree,Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,4,2,1,5,4,1,5,1,3,4,no
+June,29,6,187,FR,yes,,,Information and Communication Technologies,,,,Disagree,Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree,1,2,1,2,2,5,4,2,2,1,yes
+August,24,9,152,YE,yes,1,Do not belong to a any religion,Information and Communication Technologies,2,-2,None,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Agree,Agree,2,5,1,4,5,3,5,3,5,3,no
+February,26,3,184,MX,no,,,Mathematics and Statistics,,,,Strongly Disagree,Agree,Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,3,3,2,4,1,3,5,4,4,2,no
+April,27,1,188,CA,yes,5,Do not belong to a any religion,Mathematics and Statistics,2,-2,None,,,Disagree,,Strongly Disagree,Agree,Agree,Strongly Disagree,1,5,4,1,1,5,3,1,2,1,no
+August,,2,173,ID,no,1,Don't know,Arts and Humanities,3,3,Internship program,Disagree,Strongly Agree,,Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,4,2,1,2,1,3,1,1,2,2,no
+February,37,1,179,ID,yes,3,Do not belong to a any religion,Social Science,4,26,None,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,Agree,Agree,Agree,Strongly Agree,2,2,5,4,3,4,2,5,2,4,yes
+July,30,7,178,MX,yes,2,Jew,Social Science,1,-3,Studying school abroad,Agree,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Disagree,Agree,4,2,3,5,3,2,1,3,1,4,yes
+August,34,7,177,BR,yes,5,Roman Catholic,Arts and Humanities,3,-1,None,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,Disagree,5,3,3,1,5,2,3,5,5,1,no
+March,21,8,197,CN,no,2,Orthodox,Business & Admin and Law,3,7,Volunteer service,Agree,Strongly Agree,Agree,Strongly Disagree,Disagree,Disagree,Agree,Disagree,1,1,2,5,3,3,3,1,1,4,yes
+April,32,6,188,BR,yes,3,Roman Catholic,Mathematics and Statistics,1,21,None,Strongly Disagree,Disagree,,Strongly Agree,Agree,Strongly Agree,Disagree,Strongly Disagree,1,2,5,5,2,5,5,4,2,3,no
+August,26,9,179,RU,yes,2,Hindu,Information and Communication Technologies,3,14,None,Agree,Disagree,Strongly Disagree,Strongly Agree,Disagree,Disagree,Disagree,Disagree,2,3,2,4,2,3,2,1,5,2,yes
+March,40,6,191,RU,no,1,Don't know,Business & Admin and Law,5,17,None,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,5,3,2,4,1,2,5,1,4,5,no
+May,39,9,187,CO,no,2,Do not belong to a any religion,Mathematics and Statistics,1,18,Studying school abroad,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,4,2,1,1,1,3,2,2,3,5,yes
+February,34,3,184,EG,yes,4,Orthodox,Arts and Humanities,2,13,Studying school abroad,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Agree,Disagree,Strongly Agree,1,1,5,4,1,1,4,4,3,3,yes
+April,,5,154,BQ,yes,5,Protestant,Social Science,2,16,Internship program,Strongly Disagree,Strongly Disagree,Disagree,Agree,Strongly Agree,Agree,Agree,Strongly Disagree,4,2,4,2,5,2,5,1,2,2,yes
+June,,3,161,BR,yes,2,Hindu,Social Science,3,16,Studying school abroad,Strongly Disagree,Strongly Agree,Agree,Disagree,Strongly Disagree,Disagree,Disagree,Agree,2,5,4,5,2,5,4,2,5,1,no
+July,27,10,169,ID,no,3,Jew,Mathematics and Statistics,2,-2,Studying school abroad,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Disagree,1,3,3,1,1,5,5,1,5,2,no
+July,27,2,198,PH,no,,,Mathematics and Statistics,,,,Disagree,Disagree,Strongly Disagree,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,4,1,5,1,2,4,5,1,5,2,yes
+August,40,3,188,CN,,5,Roman Catholic,Information and Communication Technologies,4,12,Volunteer service,Disagree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,,,,,,,,,,,,
+July,22,8,186,GB,no,5,Don't know,Natural Science,2,7,None,Strongly Agree,Strongly Disagree,,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,Disagree,4,5,5,4,1,1,5,3,4,1,yes
+August,29,3,181,BR,yes,2,Don't know,Business & Admin and Law,5,0,Volunteer service,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,Agree,Disagree,Disagree,Agree,5,4,4,2,3,3,4,4,4,3,no
+March,38,6,195,RU,yes,,,Arts and Humanities,,,,Disagree,Strongly Disagree,Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Disagree,3,4,4,1,1,5,3,2,5,2,yes
+June,34,4,153,ID,yes,2,Protestant,Social Science,3,25,None,Agree,Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,1,5,2,2,2,5,2,4,4,2,yes
+August,,10,165,PT,,1,Other,Natural Science,3,23,None,Strongly Disagree,Strongly Agree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,,,,,,,,,,,,
+July,40,5,181,UG,yes,1,Other Christian,Social Science,4,21,None,Disagree,Strongly Agree,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,1,5,1,4,1,5,4,2,3,5,yes
+July,18,10,159,HU,no,1,Hindu,Social Science,4,3,None,Disagree,Disagree,,Strongly Agree,Strongly Disagree,Agree,Disagree,Disagree,3,3,5,1,3,1,1,4,5,2,yes
+August,27,2,200,CZ,yes,3,Don't know,Natural Science,1,4,Volunteer service,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Agree,Agree,Strongly Disagree,Agree,2,2,3,4,4,1,4,2,1,2,no
+April,18,8,151,CO,no,1,Roman Catholic,Arts and Humanities,1,-2,Volunteer service,Disagree,Agree,Disagree,Strongly Agree,Agree,Agree,Agree,Strongly Disagree,1,5,1,4,5,1,4,4,2,1,yes
+July,33,5,199,GR,no,4,Other Christian,Business & Admin and Law,3,26,Volunteer service,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Disagree,3,5,5,4,1,2,4,1,3,3,yes
+February,38,8,156,RU,yes,,,Social Science,,,,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,Agree,5,1,4,4,3,3,1,1,2,4,yes
+July,37,5,173,ID,no,1,Do not belong to a any religion,Information and Communication Technologies,5,21,None,Agree,Disagree,Strongly Agree,Agree,Agree,Agree,Disagree,Agree,4,5,3,4,4,4,4,4,4,5,no
+June,34,8,169,PH,no,4,Other Christian,Social Science,5,24,Internship program,Disagree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,1,1,5,2,5,1,2,4,4,4,yes
+June,34,5,179,CN,no,3,Do not belong to a any religion,Arts and Humanities,1,23,Studying school abroad,Strongly Disagree,Agree,,Disagree,Strongly Agree,Agree,Disagree,Disagree,4,4,4,1,1,5,2,1,1,2,yes
+February,35,10,174,PT,no,5,Protestant,Mathematics and Statistics,5,5,None,Strongly Disagree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,2,2,5,2,4,4,2,5,3,3,no
+July,32,5,158,CN,no,4,Roman Catholic,Natural Science,3,-5,Studying school abroad,Strongly Agree,Disagree,Agree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Agree,3,5,1,1,1,4,1,4,4,4,no
+July,20,2,166,AF,yes,3,Do not belong to a any religion,Information and Communication Technologies,3,8,Internship program,Agree,Strongly Agree,,Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,5,1,5,4,4,2,2,3,4,2,no
+April,,2,182,CN,no,2,Other,Natural Science,2,4,Volunteer service,Strongly Agree,Strongly Disagree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,Strongly Disagree,1,1,2,3,2,5,3,5,2,2,yes
+July,26,6,178,TD,,1,Do not belong to a any religion,Mathematics and Statistics,4,8,Studying school abroad,Disagree,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree,Disagree,,,,,,,,,,,,
+May,27,1,187,CF,no,2,Do not belong to a any religion,Arts and Humanities,3,0,None,Strongly Disagree,Strongly Agree,Agree,Disagree,Agree,Agree,Strongly Disagree,Agree,2,2,2,1,3,1,3,4,1,5,yes
+May,18,6,154,HN,yes,2,Protestant,Information and Communication Technologies,2,17,Volunteer service,Agree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,3,3,1,4,1,5,3,5,3,3,no
+August,29,7,187,IR,no,1,Orthodox,Social Science,2,19,Internship program,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,4,1,1,2,2,1,3,5,5,2,yes
+February,33,2,166,IR,yes,4,Roman Catholic,Information and Communication Technologies,3,24,Internship program,Strongly Agree,Agree,,Strongly Disagree,Disagree,Agree,Disagree,Agree,3,5,1,1,5,5,3,5,5,4,no
+June,33,3,156,AR,yes,4,Don't know,Mathematics and Statistics,1,3,Studying school abroad,Agree,Agree,Strongly Agree,Agree,Disagree,Agree,Agree,Strongly Disagree,5,5,5,2,3,1,2,2,3,2,no
+February,,5,180,CN,yes,1,Roman Catholic,Arts and Humanities,5,12,Studying school abroad,Strongly Agree,Strongly Agree,,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,4,4,1,4,4,1,1,3,4,5,yes
+April,33,2,150,UA,yes,4,Other Christian,Natural Science,1,-2,Studying school abroad,,,Strongly Disagree,,Agree,Strongly Disagree,Strongly Agree,Disagree,2,2,3,1,1,4,4,3,4,1,yes
+August,20,8,166,MA,yes,3,Other Christian,Information and Communication Technologies,5,2,None,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Disagree,5,2,2,1,3,1,1,1,1,3,no
+April,34,2,189,CN,no,2,Protestant,Natural Science,3,4,Volunteer service,Agree,Agree,Disagree,Strongly Agree,Agree,Strongly Disagree,Disagree,Strongly Disagree,5,4,1,5,4,3,5,3,2,1,no
+February,,3,153,NZ,yes,4,Other Christian,Natural Science,2,7,Internship program,Agree,Agree,Disagree,Agree,Disagree,Strongly Agree,Strongly Agree,Agree,4,3,3,2,5,5,4,3,2,4,yes
+March,22,4,160,PH,yes,2,Other Christian,Arts and Humanities,5,8,Studying school abroad,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Agree,4,1,5,3,2,5,3,2,4,1,yes
+June,21,10,162,CN,yes,4,Orthodox,Information and Communication Technologies,1,11,Volunteer service,Strongly Agree,Agree,Agree,Disagree,Strongly Agree,Agree,Disagree,Strongly Disagree,3,3,3,3,4,1,2,3,3,2,yes
+March,,9,163,ID,yes,5,Don't know,Social Science,5,8,Volunteer service,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,1,2,4,2,3,4,3,2,5,3,yes
+February,26,5,181,ID,no,2,Protestant,Natural Science,3,4,Volunteer service,Strongly Disagree,Agree,,Agree,Strongly Disagree,Strongly Agree,Agree,Disagree,3,4,3,5,3,2,2,4,5,3,no
+August,,9,195,FR,yes,3,Jew,Natural Science,3,3,None,Agree,Disagree,,Agree,Strongly Agree,Agree,Strongly Disagree,Agree,4,3,3,4,5,2,5,2,5,3,no
+April,36,3,178,ID,yes,2,Hindu,Arts and Humanities,3,12,None,Disagree,Strongly Disagree,,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,2,1,5,1,2,1,5,1,4,3,yes
+April,28,7,158,DE,,1,Buddhist,Arts and Humanities,4,15,Internship program,Agree,Strongly Agree,,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,,,,,,,,,,,,
+February,29,2,182,IR,yes,3,Other Christian,Social Science,1,6,None,Strongly Disagree,Disagree,,Agree,Strongly Agree,Agree,Agree,Disagree,1,3,3,3,4,4,1,5,5,5,yes
+June,19,4,159,AF,yes,1,Other,Social Science,1,-2,Studying school abroad,Disagree,Strongly Agree,,Disagree,Strongly Agree,Strongly Disagree,Agree,Agree,5,2,1,5,4,2,4,1,2,5,yes
+August,19,6,163,ID,yes,5,Hindu,Arts and Humanities,1,9,None,Strongly Agree,Strongly Disagree,,Agree,Disagree,Strongly Disagree,Disagree,Disagree,3,5,4,4,2,2,2,3,3,2,yes
+July,23,6,181,ID,yes,,,Arts and Humanities,,,,Disagree,Disagree,,Strongly Disagree,Disagree,Disagree,Strongly Agree,Disagree,4,4,1,5,2,2,3,3,5,2,yes
+April,,7,194,TZ,yes,4,Other,Information and Communication Technologies,1,7,None,Disagree,Agree,Agree,Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,3,5,3,2,2,3,3,5,3,5,no
+March,37,3,154,CL,no,4,Orthodox,Information and Communication Technologies,2,9,Internship program,Strongly Agree,Disagree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,3,3,1,1,1,5,2,4,1,3,no
+March,26,2,189,ID,yes,5,Do not belong to a any religion,Arts and Humanities,1,12,None,Strongly Agree,Strongly Agree,,Disagree,Strongly Agree,Disagree,Disagree,Strongly Disagree,2,1,5,2,5,3,3,3,1,3,yes
+March,33,5,170,HU,no,3,Other,Business & Admin and Law,5,-1,None,Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree,5,1,4,4,2,2,1,2,3,3,no
+May,30,1,154,BO,no,4,Protestant,Business & Admin and Law,3,16,Internship program,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Agree,3,5,1,1,3,4,4,4,5,5,no
+May,31,2,189,CN,yes,1,Jew,Information and Communication Technologies,5,8,Internship program,Disagree,Disagree,,Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,3,4,1,2,1,2,2,3,5,1,no
+May,21,2,175,PL,yes,5,Protestant,Information and Communication Technologies,2,9,Volunteer service,Strongly Disagree,Strongly Disagree,Disagree,Agree,Agree,Strongly Disagree,Disagree,Strongly Agree,1,5,5,3,1,4,2,3,2,1,yes
+May,,2,173,PH,yes,3,Jew,Natural Science,5,17,None,Agree,Strongly Agree,Strongly Disagree,Disagree,Disagree,Strongly Agree,Disagree,Strongly Agree,2,4,3,1,4,3,3,2,4,2,yes
+June,40,10,187,CN,no,5,Do not belong to a any religion,Business & Admin and Law,4,0,Volunteer service,Agree,Strongly Disagree,Strongly Agree,Disagree,Disagree,Agree,Agree,Strongly Disagree,4,1,4,2,1,5,2,2,5,1,no
+March,21,5,197,EC,no,2,Buddhist,Business & Admin and Law,3,26,None,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,3,5,4,5,5,5,1,3,1,3,no
+August,37,7,182,AR,no,2,Buddhist,Business & Admin and Law,3,22,Volunteer service,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,4,2,5,3,5,3,1,4,5,1,no
+June,36,3,200,UY,yes,2,Other Christian,Natural Science,5,6,Internship program,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,Strongly Agree,4,1,5,3,3,4,3,1,5,3,yes
+August,20,9,185,GB,no,1,Other,Mathematics and Statistics,5,9,Internship program,Disagree,Agree,,Disagree,Strongly Agree,Agree,Disagree,Agree,1,3,4,1,5,1,2,2,3,2,yes
+May,27,4,152,ID,no,1,Other Christian,Natural Science,4,22,None,Strongly Disagree,Disagree,,Agree,Strongly Disagree,Disagree,Agree,Agree,3,1,2,2,1,2,1,5,2,4,yes
+July,35,10,159,ID,yes,3,Other Christian,Information and Communication Technologies,5,8,None,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree,5,4,4,1,3,1,3,5,1,5,no
+February,29,4,191,RU,yes,2,Protestant,Arts and Humanities,3,25,Internship program,Strongly Agree,Agree,,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,1,4,1,4,2,1,2,1,3,3,yes
+June,32,3,158,VE,no,5,Jew,Mathematics and Statistics,3,7,Studying school abroad,,,Agree,,Agree,Agree,Disagree,Agree,4,2,4,1,5,3,1,3,2,1,yes
+August,18,6,189,US,no,3,Other Christian,Business & Admin and Law,4,15,None,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,1,3,1,1,3,2,2,4,4,4,no
+May,39,2,183,SL,no,2,Don't know,Social Science,5,8,Volunteer service,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,Disagree,Disagree,Disagree,4,3,2,2,5,4,2,2,4,4,no
+February,,5,166,FR,yes,4,Do not belong to a any religion,Mathematics and Statistics,4,0,Studying school abroad,Disagree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,1,5,5,3,1,3,5,4,4,4,yes
+March,32,6,150,CN,no,5,Other Christian,Natural Science,1,5,Volunteer service,Strongly Disagree,Disagree,,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,3,5,2,3,2,5,1,5,5,4,no
+May,32,1,169,ID,yes,1,Hindu,Mathematics and Statistics,1,9,Internship program,Strongly Agree,Agree,Disagree,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,1,3,1,3,2,5,2,2,4,5,no
+June,33,3,179,RU,,2,Do not belong to a any religion,Natural Science,2,7,Studying school abroad,Disagree,Disagree,,Strongly Agree,Strongly Disagree,Agree,Agree,,,,,,,,,,,,
+July,19,9,154,BR,no,,,Natural Science,,,,Strongly Disagree,Strongly Disagree,Agree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,2,3,4,1,5,1,5,5,5,3,yes
+June,35,1,171,RU,yes,,,Business & Admin and Law,,,,Strongly Agree,Strongly Agree,,Strongly Agree,Disagree,Strongly Agree,Disagree,Disagree,3,2,3,5,2,3,1,2,5,4,no
+May,20,1,172,JP,no,2,Other,Natural Science,1,-2,Internship program,Strongly Disagree,Agree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,1,1,3,1,5,1,4,3,3,1,no
+April,29,9,199,SE,yes,4,Jew,Natural Science,5,4,Volunteer service,Disagree,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,1,4,1,2,4,4,4,1,5,1,no
+July,27,1,152,CN,no,1,Jew,Mathematics and Statistics,1,16,Internship program,Strongly Agree,Disagree,,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,2,5,5,3,3,1,1,4,3,2,yes
+February,24,10,151,PE,,4,Do not belong to a any religion,Social Science,4,-4,Volunteer service,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,,,,,,,,,,,,
+July,32,9,169,CN,no,2,Other,Information and Communication Technologies,3,25,Internship program,Strongly Disagree,Strongly Agree,,Disagree,Strongly Disagree,Agree,Agree,Strongly Agree,5,4,4,3,2,3,1,3,2,3,yes
+February,24,6,182,CN,,,,Information and Communication Technologies,,,,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,,,,,,,,,,,,
+July,25,7,183,CN,no,1,Roman Catholic,Information and Communication Technologies,5,12,Volunteer service,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Disagree,Strongly Disagree,3,1,4,2,1,2,2,4,4,5,no
+March,18,9,170,RU,no,5,Other Christian,Arts and Humanities,1,7,Internship program,Disagree,Agree,Agree,Disagree,Strongly Disagree,Disagree,Agree,Strongly Disagree,3,2,4,5,5,1,3,1,1,2,yes
+March,35,8,190,IT,no,4,Hindu,Natural Science,3,24,None,Disagree,Disagree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,3,1,5,1,2,1,3,3,4,4,yes
+May,,1,195,FR,yes,3,Roman Catholic,Arts and Humanities,5,15,Internship program,Disagree,Agree,,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Agree,5,2,3,1,4,3,5,1,2,1,no
+March,,3,151,PH,no,5,Other,Social Science,4,-5,Internship program,Disagree,Agree,,Disagree,Agree,Strongly Disagree,Disagree,Strongly Disagree,3,4,1,5,3,1,4,2,4,1,no
+June,18,4,179,ID,no,4,Protestant,Natural Science,4,0,Internship program,Agree,Strongly Agree,,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Agree,5,2,1,5,5,1,4,2,4,3,yes
+May,19,2,186,AR,no,5,Don't know,Social Science,3,13,Internship program,Strongly Disagree,Disagree,Agree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,4,3,1,4,5,1,4,3,2,4,yes
+May,19,1,170,CN,,3,Orthodox,Business & Admin and Law,5,-5,Volunteer service,Agree,Agree,Strongly Agree,Disagree,Agree,Agree,Strongly Disagree,,,,,,,,,,,,
+June,36,5,168,PL,yes,1,Orthodox,Mathematics and Statistics,4,17,None,Disagree,Strongly Disagree,,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,3,2,2,5,2,3,5,5,2,5,no
+May,25,4,192,US,yes,5,Don't know,Social Science,5,27,Internship program,Disagree,Agree,,Strongly Agree,Strongly Agree,Strongly Disagree,Agree,Agree,1,2,2,2,3,1,4,2,4,4,no
+May,29,6,171,CN,no,5,Don't know,Information and Communication Technologies,5,9,Internship program,Disagree,Agree,Agree,Agree,Strongly Disagree,Agree,Agree,Strongly Agree,2,5,2,2,3,2,2,1,1,2,no
+March,20,4,188,MW,no,1,Do not belong to a any religion,Social Science,5,24,None,Disagree,Strongly Disagree,Strongly Agree,Agree,Agree,Strongly Agree,Disagree,Disagree,2,1,5,5,2,4,5,1,3,2,yes
+May,36,9,158,VN,no,3,Jew,Business & Admin and Law,4,24,Studying school abroad,Agree,Agree,Strongly Disagree,Disagree,Agree,Disagree,Strongly Agree,Strongly Agree,2,2,3,3,2,4,5,1,2,2,yes
+June,29,3,163,AR,no,3,Do not belong to a any religion,Arts and Humanities,1,23,Studying school abroad,Agree,Strongly Disagree,Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,5,4,3,5,2,3,5,3,2,4,yes
+May,35,7,195,PL,no,,,Social Science,,,,,,Agree,,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,2,2,2,2,4,4,1,3,4,5,yes
+April,20,3,167,PT,yes,4,Jew,Mathematics and Statistics,2,10,Volunteer service,Strongly Disagree,Disagree,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,5,2,5,5,3,1,5,1,3,5,no
+May,26,6,176,FR,no,,,Natural Science,,,,Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,Disagree,Strongly Agree,Strongly Disagree,5,2,3,1,4,5,4,3,3,3,yes
+May,30,5,180,IR,no,1,Orthodox,Business & Admin and Law,3,17,Internship program,Strongly Disagree,Disagree,Disagree,Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,5,2,1,4,3,1,5,2,2,4,yes
+August,27,7,162,IM,yes,,,Social Science,,,,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,4,5,4,4,2,1,5,5,4,3,no
+June,37,4,150,CN,,2,Don't know,Business & Admin and Law,1,24,Studying school abroad,Disagree,Strongly Disagree,,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,,,,,,,,,,,,
+February,33,4,175,CN,no,3,Protestant,Information and Communication Technologies,5,0,Studying school abroad,Strongly Disagree,Disagree,,Agree,Strongly Agree,Strongly Disagree,Disagree,Disagree,3,2,2,2,4,2,2,5,3,4,no
+February,36,7,167,ID,yes,4,Buddhist,Arts and Humanities,1,25,Internship program,Agree,Strongly Disagree,Agree,Disagree,Strongly Agree,Agree,Strongly Agree,Disagree,4,2,3,2,2,1,1,1,3,3,yes
+August,38,1,197,CN,yes,4,Protestant,Natural Science,3,4,Internship program,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Agree,Disagree,Agree,5,1,3,4,4,4,4,5,2,2,no
+February,19,1,197,PT,no,3,Do not belong to a any religion,Social Science,1,27,Internship program,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Disagree,Disagree,1,4,4,5,4,3,3,4,2,1,no
+March,31,6,174,CN,no,5,Buddhist,Information and Communication Technologies,4,3,None,Agree,Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Agree,Disagree,5,1,2,1,2,5,4,2,5,2,no
+April,38,6,165,BD,yes,2,Hindu,Business & Admin and Law,1,25,Internship program,Strongly Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Agree,1,3,1,1,5,3,1,3,3,1,yes
+June,39,4,179,PA,yes,5,Do not belong to a any religion,Social Science,4,11,None,Strongly Agree,Agree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,1,1,5,3,4,1,4,5,5,4,no
+February,,6,167,PH,yes,4,Other Christian,Business & Admin and Law,3,11,Studying school abroad,,,Agree,,Disagree,Strongly Agree,Agree,Strongly Disagree,5,3,4,1,3,1,3,2,2,2,yes
+March,33,7,153,RU,no,4,Roman Catholic,Natural Science,5,11,None,Strongly Disagree,Strongly Agree,,Agree,Disagree,Strongly Disagree,Agree,Agree,1,5,4,1,2,4,1,1,5,3,yes
+July,29,3,196,BR,yes,5,Buddhist,Business & Admin and Law,5,6,Studying school abroad,Agree,Strongly Agree,Strongly Disagree,Disagree,Disagree,Agree,Disagree,Strongly Disagree,3,2,1,5,3,4,3,3,4,5,no
+March,20,7,165,CN,yes,,,Arts and Humanities,,,,Strongly Disagree,Agree,Agree,Agree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,3,2,3,5,4,5,3,3,2,3,yes
+June,34,9,199,AU,no,5,Orthodox,Information and Communication Technologies,2,-3,None,Agree,Strongly Agree,,Agree,Disagree,Strongly Disagree,Agree,Disagree,2,2,1,4,3,1,5,1,4,2,yes
+March,22,1,184,CN,yes,1,Jew,Information and Communication Technologies,3,19,None,Disagree,Disagree,Disagree,Disagree,Disagree,Strongly Disagree,Agree,Agree,4,3,3,4,3,1,1,4,5,5,yes
+July,35,10,175,GR,no,5,Buddhist,Natural Science,4,27,Volunteer service,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Agree,Strongly Agree,Strongly Agree,4,5,1,2,3,2,5,4,4,3,yes
+April,27,7,188,SE,,3,Other,Social Science,3,4,Volunteer service,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Agree,,,,,,,,,,,,
+July,20,1,174,SN,yes,5,Other,Social Science,4,-4,None,Strongly Disagree,Agree,Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,5,5,1,5,4,3,5,1,2,3,yes
+February,33,1,191,CN,no,2,Other,Natural Science,3,4,None,Strongly Agree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Agree,2,1,4,5,5,5,4,2,4,1,yes
+June,22,2,197,TH,yes,3,Hindu,Social Science,2,12,Volunteer service,Strongly Disagree,Disagree,Agree,Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,4,4,2,1,1,3,3,2,4,5,no
+February,30,8,192,JP,no,3,Other Christian,Natural Science,2,20,Volunteer service,Agree,Disagree,Strongly Disagree,Agree,Disagree,Strongly Agree,Agree,Agree,2,2,3,4,2,1,5,3,2,1,no
+March,28,1,199,CN,no,3,Do not belong to a any religion,Natural Science,5,12,Volunteer service,Strongly Agree,Agree,Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,4,4,2,4,2,1,5,5,2,1,no
+March,26,9,167,CN,,2,Do not belong to a any religion,Social Science,1,15,Volunteer service,Strongly Disagree,Strongly Disagree,Agree,Disagree,Disagree,Strongly Agree,Disagree,,,,,,,,,,,,
+March,34,8,166,BF,no,4,Orthodox,Natural Science,2,-5,Volunteer service,Agree,Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,4,1,4,1,3,2,5,2,4,1,no
+July,27,10,185,FR,yes,1,Buddhist,Business & Admin and Law,3,15,Internship program,Agree,Agree,Agree,Agree,Agree,Strongly Disagree,Agree,Disagree,1,1,4,4,2,1,4,3,5,1,no
+July,29,1,196,CZ,no,1,Other Christian,Information and Communication Technologies,2,15,None,Strongly Agree,Strongly Agree,Agree,Disagree,Disagree,Strongly Disagree,Agree,Agree,2,1,5,1,4,3,2,1,3,2,yes
+April,36,3,176,NL,yes,4,Other Christian,Business & Admin and Law,4,18,Volunteer service,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,3,1,3,5,2,5,3,2,2,4,no
+June,27,10,156,ZA,no,1,Orthodox,Natural Science,5,7,Studying school abroad,,,,,Agree,Strongly Disagree,Strongly Agree,Agree,4,2,2,5,2,2,4,5,2,1,no
+July,18,2,188,RU,yes,4,Buddhist,Business & Admin and Law,3,1,Internship program,Agree,Agree,,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree,1,5,3,2,4,4,1,4,4,2,yes
+April,23,4,170,CN,yes,1,Buddhist,Business & Admin and Law,3,5,Internship program,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Agree,Strongly Agree,2,5,1,5,1,2,4,5,5,1,no
+June,20,2,154,GR,,1,Hindu,Arts and Humanities,2,26,Volunteer service,Disagree,Agree,,Agree,Strongly Agree,Disagree,Strongly Agree,,,,,,,,,,,,
+May,25,8,175,PE,no,3,Orthodox,Information and Communication Technologies,3,20,None,Strongly Disagree,Strongly Agree,,Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,1,2,1,1,4,3,5,3,1,2,no
+May,22,2,176,CN,no,4,Do not belong to a any religion,Mathematics and Statistics,4,2,Internship program,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Agree,1,4,4,3,1,3,2,2,3,2,yes
+July,26,2,192,ZA,,1,Hindu,Natural Science,1,16,Studying school abroad,Disagree,Disagree,Disagree,Agree,Strongly Disagree,Agree,Strongly Agree,,,,,,,,,,,,
+February,34,7,183,VE,yes,1,Other Christian,Natural Science,5,13,Volunteer service,Agree,Agree,Agree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,1,5,4,3,4,1,5,2,5,2,no
+February,25,2,180,RU,no,3,Other Christian,Information and Communication Technologies,3,15,Studying school abroad,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,4,5,2,4,4,1,4,5,4,2,yes
+April,39,6,167,UA,no,2,Hindu,Social Science,1,16,Volunteer service,Strongly Disagree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,Disagree,Strongly Disagree,1,4,3,3,1,5,1,2,5,3,no
+July,33,6,199,PH,no,5,Don't know,Arts and Humanities,3,0,None,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,2,3,5,4,3,2,2,2,1,3,yes
+February,19,4,169,ID,no,5,Other,Business & Admin and Law,3,25,Internship program,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Disagree,1,3,4,4,2,1,4,2,5,1,no
+February,32,2,156,SE,no,1,Don't know,Social Science,4,-4,Volunteer service,Strongly Agree,Strongly Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Strongly Disagree,4,5,1,4,4,1,2,1,3,2,yes
+August,39,3,169,CN,yes,5,Do not belong to a any religion,Social Science,4,20,None,Strongly Agree,Agree,Disagree,Agree,Agree,Strongly Disagree,Agree,Strongly Disagree,3,5,3,3,3,1,4,3,1,5,no
+July,25,10,153,BR,,3,Hindu,Arts and Humanities,2,-3,Volunteer service,Disagree,Disagree,Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,,,,,,,,,,,,
+April,30,3,191,BI,,1,Hindu,Business & Admin and Law,2,23,None,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,,,,,,,,,,,,
+June,22,4,199,NG,yes,1,Jew,Information and Communication Technologies,1,22,Internship program,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,Agree,Strongly Agree,Disagree,Strongly Agree,1,4,5,4,5,2,3,2,3,3,yes
+April,39,2,173,CN,,1,Roman Catholic,Social Science,1,1,Studying school abroad,Strongly Agree,Strongly Agree,Disagree,Agree,Disagree,Strongly Disagree,Strongly Disagree,,,,,,,,,,,,
+February,20,7,189,RU,no,2,Buddhist,Arts and Humanities,5,9,Volunteer service,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Disagree,Disagree,Agree,Strongly Disagree,2,4,4,4,3,2,4,5,5,4,no
+August,36,8,159,GR,no,3,Other,Arts and Humanities,5,25,Volunteer service,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,3,4,5,5,5,1,2,1,5,3,yes
+May,30,1,156,BR,no,,,Information and Communication Technologies,,,,Strongly Agree,Agree,,Disagree,Disagree,Disagree,Disagree,Strongly Agree,2,4,4,4,3,1,3,1,5,4,no
+May,27,2,167,ID,yes,3,Don't know,Arts and Humanities,1,-3,Internship program,,,Agree,,Disagree,Disagree,Disagree,Strongly Disagree,2,3,1,5,3,1,3,4,1,1,yes
+August,26,4,151,ID,no,2,Other Christian,Business & Admin and Law,2,2,Volunteer service,Disagree,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Agree,Strongly Disagree,2,3,2,2,3,4,3,4,3,3,no
+May,40,6,189,SN,yes,,,Business & Admin and Law,,,,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Disagree,4,3,1,3,5,4,2,2,3,2,yes
+August,34,9,159,BR,,5,Jew,Arts and Humanities,2,8,Internship program,,,Strongly Agree,,Strongly Disagree,Agree,Disagree,,,,,,,,,,,,
+June,27,1,183,US,yes,2,Roman Catholic,Information and Communication Technologies,3,-4,None,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Agree,Disagree,1,2,5,3,1,4,3,2,5,4,no
+May,31,3,175,AM,no,5,Buddhist,Social Science,1,8,Studying school abroad,,,Strongly Disagree,,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,5,2,3,1,4,2,5,1,5,5,yes
+August,39,4,180,UA,yes,1,Other Christian,Natural Science,3,10,Studying school abroad,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Agree,Agree,Strongly Agree,Agree,2,5,4,5,3,3,1,4,5,1,no
+February,40,5,187,SE,,5,Jew,Mathematics and Statistics,5,18,Volunteer service,Strongly Disagree,Strongly Agree,Disagree,Disagree,Agree,Strongly Disagree,Strongly Disagree,,,,,,,,,,,,
+June,23,9,157,FR,no,4,Orthodox,Mathematics and Statistics,5,8,Studying school abroad,,,,,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,4,5,2,4,2,2,1,2,4,5,yes
+February,21,1,187,CZ,no,2,Orthodox,Arts and Humanities,1,20,Studying school abroad,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,Disagree,Disagree,Disagree,1,4,3,1,1,2,4,3,5,4,no
+March,35,5,150,NL,no,3,Hindu,Mathematics and Statistics,3,9,Volunteer service,Disagree,Disagree,Disagree,Agree,Agree,Disagree,Agree,Disagree,3,3,2,4,2,2,2,2,3,2,yes
+August,35,5,166,PH,yes,1,Orthodox,Information and Communication Technologies,1,17,Studying school abroad,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,2,1,5,5,3,2,2,5,3,2,yes
+August,34,3,174,PL,yes,1,Don't know,Mathematics and Statistics,4,17,Studying school abroad,,,Disagree,,Agree,Strongly Agree,Agree,Strongly Agree,3,5,4,4,1,4,3,3,3,5,yes
+June,24,1,174,CR,yes,1,Orthodox,Business & Admin and Law,3,5,Studying school abroad,Agree,Strongly Agree,,Disagree,Agree,Disagree,Strongly Disagree,Agree,4,5,4,4,4,2,5,1,1,5,yes
+August,38,1,181,PH,yes,3,Other Christian,Mathematics and Statistics,1,-4,Studying school abroad,Strongly Agree,Agree,Strongly Disagree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,3,4,1,5,1,1,1,5,4,5,yes
+February,36,3,172,AU,yes,2,Hindu,Arts and Humanities,2,2,Volunteer service,Disagree,Disagree,,Agree,Strongly Disagree,Strongly Agree,Agree,Disagree,2,3,4,5,3,3,5,3,5,4,yes
+February,,6,172,PH,yes,4,Other Christian,Natural Science,4,0,Internship program,Disagree,Strongly Disagree,Agree,Agree,Agree,Agree,Agree,Agree,4,1,1,3,5,1,2,5,3,5,no
+March,39,4,164,PL,no,5,Orthodox,Business & Admin and Law,4,16,Internship program,Agree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,5,5,1,4,5,4,1,5,1,2,yes
+May,18,1,189,ID,yes,1,Roman Catholic,Natural Science,2,27,Studying school abroad,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Agree,Disagree,Agree,4,4,3,3,2,5,2,4,1,2,no
+April,30,4,161,ID,yes,1,Protestant,Mathematics and Statistics,3,18,Volunteer service,Agree,Strongly Disagree,Agree,Agree,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,4,3,5,4,3,4,1,2,5,4,yes
+June,38,3,192,CN,no,3,Hindu,Mathematics and Statistics,4,8,None,Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,3,2,2,4,3,2,3,3,3,1,yes
+August,29,3,176,RU,yes,4,Do not belong to a any religion,Mathematics and Statistics,5,-5,Studying school abroad,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,4,2,5,3,1,3,1,3,5,5,yes
+June,32,9,177,CN,yes,2,Hindu,Arts and Humanities,3,19,Internship program,Strongly Disagree,Agree,Disagree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,3,3,5,1,3,1,1,3,2,1,yes
+June,38,1,195,RU,yes,2,Roman Catholic,Natural Science,3,18,Internship program,Strongly Disagree,Disagree,,Disagree,Strongly Disagree,Strongly Agree,Agree,Agree,2,5,2,4,3,1,1,1,5,3,no
+August,37,9,153,ID,yes,2,Other,Arts and Humanities,5,22,Internship program,Strongly Disagree,Disagree,Agree,Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,3,5,1,2,1,5,3,5,3,4,yes
+May,,6,185,CN,no,4,Hindu,Arts and Humanities,1,12,Studying school abroad,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,3,5,2,1,5,5,1,1,5,2,yes
+March,34,3,162,VN,no,2,Other,Business & Admin and Law,3,-1,Volunteer service,Strongly Agree,Strongly Agree,Agree,Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,5,1,1,2,5,4,3,4,2,1,yes
+March,21,9,187,CN,no,4,Hindu,Mathematics and Statistics,5,12,Studying school abroad,Strongly Agree,Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,2,2,5,2,2,2,4,3,2,4,no
+August,33,9,191,CN,yes,3,Protestant,Business & Admin and Law,2,16,None,Strongly Agree,Strongly Agree,,Strongly Disagree,Agree,Agree,Disagree,Disagree,3,5,4,2,4,2,4,3,3,1,yes
+March,19,10,155,CZ,no,4,Orthodox,Arts and Humanities,2,4,Studying school abroad,Strongly Disagree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Disagree,4,5,2,3,1,1,2,1,1,1,yes
+May,26,4,157,CN,yes,1,Protestant,Information and Communication Technologies,3,22,Internship program,Disagree,Agree,Disagree,Strongly Agree,Strongly Agree,Disagree,Agree,Strongly Disagree,4,2,5,1,2,5,4,2,5,4,yes
+February,29,10,152,PH,yes,3,Do not belong to a any religion,Business & Admin and Law,2,-4,Studying school abroad,Strongly Disagree,Strongly Agree,,Agree,Disagree,Agree,Agree,Strongly Agree,5,3,2,2,5,5,3,3,2,4,yes
+May,34,9,151,CN,no,4,Jew,Mathematics and Statistics,3,-2,Volunteer service,Agree,Strongly Agree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,2,1,2,3,2,3,3,2,2,2,yes
+April,21,6,161,HR,,1,Buddhist,Social Science,4,-2,None,Agree,Strongly Disagree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,,,,,,,,,,,,
+July,27,7,192,FR,yes,4,Roman Catholic,Natural Science,4,27,Studying school abroad,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Agree,Disagree,Strongly Agree,Agree,2,2,1,1,5,5,4,3,3,1,no
+August,39,3,151,ID,yes,,,Mathematics and Statistics,,,,Agree,Disagree,Agree,Agree,Strongly Disagree,Agree,Strongly Agree,Agree,3,5,1,3,3,2,2,3,4,2,yes
+June,22,10,180,CN,no,2,Orthodox,Mathematics and Statistics,5,8,Volunteer service,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,2,5,1,2,1,1,2,5,5,1,yes
+August,21,4,194,PL,no,5,Don't know,Social Science,3,5,Internship program,Disagree,Agree,Disagree,Strongly Disagree,Agree,Disagree,Disagree,Agree,5,1,2,2,1,3,4,1,5,3,no
+May,23,10,162,NO,no,4,Hindu,Mathematics and Statistics,5,14,Studying school abroad,Disagree,Strongly Agree,Agree,Strongly Agree,Disagree,Disagree,Strongly Agree,Strongly Disagree,3,1,2,2,4,3,5,1,1,4,no
+June,30,1,182,CN,yes,4,Roman Catholic,Mathematics and Statistics,2,12,None,Strongly Agree,Disagree,,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,1,1,4,3,5,4,2,4,2,2,no
+March,30,10,159,JP,no,5,Orthodox,Information and Communication Technologies,3,3,Internship program,Disagree,Strongly Disagree,,Disagree,Strongly Agree,Disagree,Disagree,Disagree,5,2,3,3,4,2,3,1,2,1,no
+July,32,10,182,CN,yes,1,Protestant,Social Science,5,19,Studying school abroad,Strongly Disagree,Strongly Agree,Disagree,Agree,Agree,Strongly Disagree,Strongly Agree,Disagree,1,5,3,5,2,3,4,1,4,2,no
+April,,5,191,TH,no,5,Do not belong to a any religion,Social Science,1,24,Internship program,Strongly Agree,Disagree,Agree,Strongly Disagree,Disagree,Agree,Strongly Disagree,Strongly Agree,3,2,2,5,2,5,5,5,2,5,yes
+March,33,10,184,CN,yes,3,Other,Mathematics and Statistics,5,2,Volunteer service,Strongly Disagree,Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,3,1,1,1,3,5,1,1,4,2,no
+March,40,4,186,BH,no,1,Do not belong to a any religion,Arts and Humanities,5,15,Studying school abroad,Disagree,Strongly Disagree,,Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,1,4,5,5,3,5,1,1,4,3,yes
+April,29,3,187,SY,yes,3,Buddhist,Information and Communication Technologies,3,15,Studying school abroad,,,Strongly Agree,,Strongly Disagree,Disagree,Disagree,Disagree,1,1,2,2,4,1,1,4,2,5,no
+May,36,5,191,CN,yes,4,Buddhist,Social Science,4,-1,Volunteer service,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,5,3,3,5,4,3,1,3,1,3,no
+May,28,1,175,CZ,no,3,Jew,Social Science,1,22,None,Strongly Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Disagree,2,5,5,2,1,3,4,2,3,5,yes
+August,39,4,189,TN,yes,3,Roman Catholic,Information and Communication Technologies,1,-1,Volunteer service,Strongly Disagree,Disagree,,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,4,2,1,1,5,5,5,1,1,5,yes
+June,35,8,171,ID,no,1,Don't know,Business & Admin and Law,3,18,Studying school abroad,,,Disagree,,Agree,Strongly Agree,Agree,Disagree,5,5,5,5,2,4,1,3,2,3,yes
+February,32,6,166,RS,no,2,Don't know,Information and Communication Technologies,1,2,Internship program,Disagree,Strongly Agree,Agree,Disagree,Strongly Agree,Agree,Strongly Disagree,Agree,3,4,2,5,3,4,2,5,3,3,no
+August,22,4,194,PH,,2,Roman Catholic,Business & Admin and Law,1,11,Volunteer service,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,,,,,,,,,,,,
+June,27,4,185,PT,no,4,Orthodox,Arts and Humanities,3,-3,Volunteer service,Strongly Disagree,Strongly Disagree,Agree,Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,3,3,4,5,5,3,3,3,1,5,yes
+May,28,8,170,EC,no,3,Hindu,Arts and Humanities,1,-2,Volunteer service,Strongly Disagree,Disagree,Agree,Disagree,Strongly Agree,Disagree,Agree,Agree,1,2,5,4,3,2,3,2,5,4,no
+June,19,2,181,UA,yes,5,Protestant,Business & Admin and Law,2,9,Internship program,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Strongly Agree,Disagree,Strongly Disagree,1,1,3,3,2,4,2,2,3,3,no
+June,34,1,159,MN,yes,5,Protestant,Social Science,5,14,Volunteer service,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Disagree,Strongly Agree,Disagree,Disagree,4,3,5,1,1,5,4,5,4,2,no
+August,30,7,179,ID,yes,4,Jew,Mathematics and Statistics,5,17,Internship program,Disagree,Agree,Agree,Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,5,5,1,4,1,3,2,4,4,2,yes
+March,31,8,162,PL,,5,Jew,Arts and Humanities,3,-2,Volunteer service,Agree,Strongly Agree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,,,,,,,,,,,,
+May,28,10,156,ID,yes,5,Don't know,Mathematics and Statistics,2,25,Volunteer service,Agree,Disagree,Disagree,Disagree,Agree,Strongly Agree,Disagree,Strongly Agree,5,4,4,5,2,1,5,4,2,5,yes
+August,34,9,182,GR,no,3,Other,Mathematics and Statistics,4,7,Internship program,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Agree,Strongly Agree,2,1,2,5,5,4,3,1,4,4,yes
+March,27,2,188,FI,no,3,Protestant,Arts and Humanities,2,25,Volunteer service,Strongly Disagree,Disagree,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Agree,4,4,1,1,5,4,5,1,4,2,no
+July,22,2,194,BA,yes,4,Buddhist,Social Science,5,-4,None,Strongly Disagree,Agree,Strongly Disagree,Agree,Disagree,Agree,Disagree,Strongly Disagree,1,2,4,2,2,4,4,1,1,5,yes
+April,36,2,164,US,yes,2,Jew,Information and Communication Technologies,2,22,None,Disagree,Strongly Agree,,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,5,5,4,4,4,1,1,1,1,4,no
+February,18,7,168,GR,yes,5,Hindu,Information and Communication Technologies,5,23,Volunteer service,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Disagree,Strongly Agree,5,5,3,2,3,5,5,3,4,4,no
+May,28,10,200,CN,yes,1,Don't know,Natural Science,3,12,None,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,3,4,1,4,3,5,3,1,5,2,no
+May,22,5,192,CO,yes,2,Roman Catholic,Business & Admin and Law,5,5,Volunteer service,Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,Disagree,Disagree,1,3,5,2,3,4,1,5,1,5,no
+May,30,9,186,PL,yes,3,Jew,Business & Admin and Law,3,2,Studying school abroad,Strongly Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,2,2,3,2,1,4,3,2,2,5,yes
+April,37,8,150,US,no,2,Orthodox,Business & Admin and Law,4,23,Internship program,Agree,Agree,Disagree,Strongly Agree,Agree,Agree,Strongly Agree,Agree,5,2,4,2,3,3,1,5,1,5,yes
+April,30,10,165,TZ,yes,4,Roman Catholic,Arts and Humanities,3,12,Studying school abroad,Strongly Disagree,Disagree,Disagree,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,4,2,1,2,2,5,4,5,3,5,no
+March,29,5,165,CL,no,5,Orthodox,Natural Science,3,26,Internship program,Agree,Disagree,Strongly Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,3,5,1,5,2,4,1,5,1,1,no
+May,29,7,154,NP,no,2,Roman Catholic,Arts and Humanities,3,20,None,Strongly Disagree,Disagree,,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,1,5,2,5,2,1,1,1,2,5,no
+July,35,4,172,PL,yes,3,Roman Catholic,Business & Admin and Law,1,6,Studying school abroad,Disagree,Strongly Agree,Disagree,Strongly Agree,Agree,Strongly Agree,Disagree,Strongly Agree,5,1,5,5,3,5,1,4,5,5,no
+June,21,5,178,MG,no,,,Social Science,,,,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,2,2,5,4,1,1,2,2,5,1,yes
+August,37,2,166,PH,no,3,Other Christian,Natural Science,4,22,Volunteer service,Agree,Strongly Agree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Agree,Disagree,3,3,5,3,3,1,4,4,3,3,no
+July,18,7,170,CN,no,5,Other,Information and Communication Technologies,2,24,Studying school abroad,Agree,Strongly Agree,Agree,Disagree,Disagree,Strongly Agree,Disagree,Agree,1,1,4,4,1,4,4,5,3,5,yes
+March,31,3,154,PE,no,3,Roman Catholic,Information and Communication Technologies,1,17,Internship program,Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,1,1,5,5,2,3,5,1,3,4,no
+August,32,5,194,SY,yes,3,Hindu,Information and Communication Technologies,3,17,None,,,Disagree,,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,4,1,1,4,5,3,3,1,2,1,no
+May,27,6,200,PH,,4,Do not belong to a any religion,Mathematics and Statistics,4,12,Studying school abroad,Strongly Disagree,Strongly Disagree,,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,,,,,,,,,,,,
+April,,7,165,BR,no,3,Roman Catholic,Information and Communication Technologies,3,1,Internship program,Disagree,Disagree,Disagree,Strongly Agree,Agree,Agree,Strongly Agree,Disagree,2,4,3,1,2,2,2,4,3,2,yes
+March,39,8,200,CN,,5,Hindu,Mathematics and Statistics,3,26,None,Strongly Agree,Agree,Strongly Disagree,Disagree,Disagree,Agree,Agree,,,,,,,,,,,,
+May,24,9,179,JP,,5,Roman Catholic,Natural Science,2,25,Studying school abroad,Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree,,,,,,,,,,,,
+March,30,5,157,DK,no,5,Jew,Arts and Humanities,5,-4,None,Disagree,Disagree,Strongly Disagree,Disagree,Disagree,Disagree,Strongly Agree,Agree,5,4,3,1,5,4,3,2,4,2,no
+August,40,5,195,SE,yes,4,Jew,Arts and Humanities,4,26,None,Agree,Agree,Strongly Disagree,Disagree,Agree,Strongly Agree,Disagree,Strongly Agree,5,1,5,5,4,2,4,5,1,5,no
+July,34,10,178,CN,no,4,Roman Catholic,Business & Admin and Law,4,25,Studying school abroad,Agree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,Disagree,2,4,3,4,3,5,5,2,3,2,no
+April,24,1,193,NZ,no,1,Protestant,Arts and Humanities,2,4,Studying school abroad,Agree,Agree,Disagree,Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,3,5,1,2,2,1,4,4,1,1,no
+August,37,7,187,PL,yes,2,Orthodox,Natural Science,5,6,Internship program,Agree,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,3,2,4,3,4,2,2,4,1,1,no
+February,40,2,179,NP,no,4,Don't know,Mathematics and Statistics,1,9,Studying school abroad,Strongly Agree,Strongly Disagree,Agree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,1,4,4,2,1,4,3,4,5,5,yes
+May,30,9,151,SI,yes,3,Orthodox,Information and Communication Technologies,5,8,Internship program,Strongly Disagree,Strongly Agree,,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Disagree,4,3,4,2,4,2,5,5,4,1,yes
+June,38,4,195,BR,no,3,Hindu,Information and Communication Technologies,5,4,None,Disagree,Disagree,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,4,2,3,3,1,4,3,2,4,2,yes
+August,39,10,179,PA,yes,3,Other,Business & Admin and Law,3,10,Internship program,,,Strongly Disagree,,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,1,1,5,1,2,5,2,2,1,3,yes
+February,29,9,188,SE,no,2,Do not belong to a any religion,Arts and Humanities,5,27,Studying school abroad,,,Agree,,Strongly Agree,Disagree,Disagree,Disagree,4,2,4,1,3,5,3,4,4,3,yes
+March,29,5,197,ID,no,4,Other Christian,Natural Science,3,27,Volunteer service,Agree,Disagree,,Strongly Disagree,Agree,Strongly Agree,Disagree,Strongly Disagree,3,2,3,3,3,4,2,3,1,5,yes
+May,30,4,175,CN,yes,3,Orthodox,Business & Admin and Law,3,0,Internship program,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,4,1,1,5,2,4,4,4,5,1,yes
+February,35,3,170,CN,yes,3,Other Christian,Natural Science,1,1,Internship program,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,2,4,1,5,5,1,5,5,2,1,no
+June,22,4,194,PH,yes,1,Orthodox,Arts and Humanities,2,18,Volunteer service,Agree,Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Agree,Agree,2,3,1,1,1,4,3,2,5,4,no
+February,38,2,156,RU,no,3,Do not belong to a any religion,Business & Admin and Law,1,25,Studying school abroad,,,Agree,,Strongly Agree,Strongly Agree,Disagree,Agree,1,3,1,4,1,3,5,4,5,2,no
+July,21,8,151,CN,yes,2,Other Christian,Business & Admin and Law,4,-4,Internship program,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Disagree,Disagree,Strongly Disagree,5,3,1,2,5,4,5,1,2,1,yes
+May,,3,156,ID,,,,Social Science,,,,,,Disagree,,Strongly Agree,Strongly Agree,Strongly Agree,,,,,,,,,,,,
+August,30,6,188,FI,yes,2,Other,Arts and Humanities,4,24,Studying school abroad,,,Strongly Agree,,Agree,Strongly Agree,Strongly Agree,Disagree,2,4,1,3,1,5,1,1,2,4,yes
+May,29,3,181,CD,yes,5,Other Christian,Social Science,3,21,Volunteer service,Agree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Agree,Strongly Disagree,Agree,3,5,2,4,2,1,4,2,2,5,yes
+June,35,6,187,VN,yes,5,Roman Catholic,Arts and Humanities,4,-5,Volunteer service,Agree,Agree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,5,5,2,2,2,2,5,2,4,3,yes
+July,24,4,190,PE,no,,,Information and Communication Technologies,,,,Strongly Agree,Strongly Agree,,Strongly Agree,Disagree,Strongly Disagree,Disagree,Agree,2,2,3,3,5,4,5,4,1,4,no
+May,28,9,157,TH,yes,4,Hindu,Information and Communication Technologies,3,17,Studying school abroad,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Disagree,2,5,2,1,5,5,3,3,5,4,yes
+April,36,10,199,PH,yes,5,Protestant,Natural Science,5,-5,Studying school abroad,Agree,Strongly Agree,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,4,2,2,3,1,5,4,5,3,3,yes
+April,37,5,157,CN,no,,,Natural Science,,,,Disagree,Strongly Agree,Agree,Disagree,Agree,Agree,Agree,Disagree,2,4,5,2,5,2,2,1,1,5,yes
+May,33,4,164,PH,yes,1,Other Christian,Business & Admin and Law,1,7,Volunteer service,Strongly Agree,Agree,,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,3,5,3,2,3,4,1,3,4,3,no
+April,,1,184,CN,no,5,Roman Catholic,Social Science,2,13,None,Agree,Strongly Agree,Strongly Disagree,Disagree,Disagree,Strongly Agree,Agree,Agree,4,1,3,2,3,5,1,1,3,2,no
+June,38,10,189,FR,yes,4,Jew,Social Science,4,23,Studying school abroad,Disagree,Strongly Disagree,Disagree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Disagree,2,3,1,5,4,3,3,5,4,1,yes
+April,32,9,179,TH,no,5,Do not belong to a any religion,Natural Science,5,21,Volunteer service,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Agree,Disagree,Strongly Disagree,Disagree,1,3,5,5,4,2,4,1,1,4,no
+August,25,6,197,RU,no,1,Orthodox,Information and Communication Technologies,2,-2,Internship program,Agree,Agree,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,Agree,2,4,2,2,1,2,4,3,3,4,no
+February,29,2,161,PL,yes,2,Other,Business & Admin and Law,5,6,None,Agree,Agree,,Disagree,Disagree,Disagree,Agree,Disagree,1,4,3,4,5,5,5,3,1,1,no
+July,26,9,193,CN,yes,5,Don't know,Information and Communication Technologies,4,12,Internship program,Disagree,Strongly Agree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,1,1,2,3,2,3,5,4,3,5,yes
+March,36,5,162,PL,yes,1,Do not belong to a any religion,Business & Admin and Law,3,19,Internship program,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,2,1,4,5,3,2,3,4,3,4,no
+July,26,3,169,CN,yes,4,Don't know,Social Science,4,-3,Volunteer service,Disagree,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,1,5,3,3,2,3,1,3,2,3,no
+May,32,10,185,ID,yes,4,Don't know,Information and Communication Technologies,4,7,Volunteer service,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,2,4,3,5,2,3,4,4,3,4,no
+June,27,5,185,ID,,4,Other,Mathematics and Statistics,3,3,Studying school abroad,Disagree,Strongly Agree,,Disagree,Agree,Strongly Disagree,Agree,,,,,,,,,,,,
+March,24,6,166,DK,yes,,,Information and Communication Technologies,,,,Strongly Agree,Disagree,Disagree,Agree,Agree,Strongly Agree,Strongly Disagree,Agree,3,3,2,4,2,4,1,3,2,2,no
+July,20,5,188,PL,,5,Other,Social Science,2,11,Internship program,Disagree,Disagree,,Agree,Strongly Agree,Strongly Agree,Agree,,,,,,,,,,,,
+March,27,4,170,AR,yes,,,Business & Admin and Law,,,,Agree,Strongly Disagree,Agree,Disagree,Disagree,Agree,Strongly Disagree,Disagree,4,2,3,2,4,2,5,5,2,1,yes
+June,22,8,180,PL,yes,2,Roman Catholic,Information and Communication Technologies,5,27,Volunteer service,Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,2,4,5,2,2,4,2,3,3,4,no
+August,34,6,190,RU,no,,,Mathematics and Statistics,,,,Strongly Agree,Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,2,5,3,2,5,4,3,5,4,4,yes
+June,38,1,172,RU,no,4,Hindu,Mathematics and Statistics,5,11,Studying school abroad,,,Disagree,,Strongly Disagree,Strongly Disagree,Agree,Agree,3,3,4,3,2,4,5,3,2,4,no
+March,,5,193,RU,no,5,Buddhist,Information and Communication Technologies,2,-5,Volunteer service,Agree,Strongly Disagree,Disagree,Agree,Strongly Agree,Disagree,Disagree,Disagree,3,2,1,2,1,2,1,3,5,2,no
+August,33,1,163,US,yes,5,Roman Catholic,Arts and Humanities,2,14,None,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Agree,Agree,Agree,Strongly Disagree,4,1,2,2,1,1,2,1,3,5,no
+June,18,2,171,TN,no,5,Other,Business & Admin and Law,1,-4,Studying school abroad,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,Disagree,Strongly Disagree,Strongly Agree,1,4,4,5,2,2,4,5,4,3,yes
+August,24,8,177,RU,,1,Buddhist,Arts and Humanities,1,0,Studying school abroad,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,,,,,,,,,,,,
+August,18,6,187,PL,yes,1,Other,Business & Admin and Law,1,-1,Volunteer service,Agree,Disagree,,Strongly Disagree,Agree,Strongly Disagree,Disagree,Strongly Disagree,3,1,1,4,5,3,1,5,3,4,yes
+February,,10,153,CZ,yes,5,Other Christian,Information and Communication Technologies,5,10,Internship program,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,Agree,Agree,5,4,4,1,2,5,5,2,4,1,yes
+August,33,6,150,CN,,5,Protestant,Arts and Humanities,2,-4,Volunteer service,,,Strongly Agree,,Strongly Agree,Strongly Agree,Disagree,,,,,,,,,,,,
+April,38,3,154,PH,no,3,Orthodox,Social Science,3,4,None,Disagree,Strongly Agree,,Disagree,Strongly Agree,Disagree,Agree,Agree,4,2,3,1,2,3,5,5,1,1,no
+June,25,7,181,CN,yes,3,Protestant,Social Science,3,5,Studying school abroad,Strongly Disagree,Agree,Agree,Strongly Disagree,Disagree,Disagree,Agree,Strongly Disagree,1,1,1,1,4,4,3,3,2,1,yes
+March,35,3,181,SE,no,4,Protestant,Social Science,4,16,Internship program,Strongly Disagree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Disagree,2,3,3,5,3,1,1,5,5,4,no
+May,26,10,150,BF,no,4,Do not belong to a any religion,Information and Communication Technologies,5,18,None,Agree,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,1,3,3,1,3,2,5,2,3,3,no
+July,39,9,178,MM,no,5,Do not belong to a any religion,Mathematics and Statistics,1,5,None,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Disagree,3,4,5,5,5,3,2,2,3,2,yes
+May,28,9,175,CN,no,3,Other Christian,Social Science,4,13,Studying school abroad,Strongly Agree,Disagree,,Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,1,5,2,4,2,2,1,5,5,1,yes
+August,26,1,168,HR,no,3,Other,Arts and Humanities,1,0,Studying school abroad,Strongly Disagree,Strongly Disagree,,Agree,Strongly Disagree,Disagree,Disagree,Agree,5,3,1,3,4,5,3,3,5,5,no
+April,24,10,165,CN,yes,4,Buddhist,Social Science,1,17,Studying school abroad,Disagree,Disagree,,Strongly Agree,Strongly Disagree,Agree,Agree,Strongly Disagree,4,1,5,1,5,1,2,4,1,2,no
+May,29,10,171,CN,no,5,Do not belong to a any religion,Social Science,1,0,Volunteer service,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,Disagree,Strongly Agree,3,4,5,4,3,5,1,4,2,4,yes
+May,35,2,193,CN,,5,Do not belong to a any religion,Arts and Humanities,4,-3,Internship program,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Agree,,,,,,,,,,,,
+February,18,5,200,PY,no,1,Roman Catholic,Social Science,5,7,None,Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,2,5,1,5,4,2,3,1,3,4,no
+June,36,10,166,JP,no,4,Hindu,Business & Admin and Law,2,15,Volunteer service,Agree,Disagree,Agree,Agree,Strongly Agree,Agree,Agree,Strongly Disagree,3,5,2,1,5,2,2,1,5,2,yes
+February,33,7,182,KZ,yes,2,Other,Business & Admin and Law,5,2,Studying school abroad,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,5,5,2,3,5,1,5,1,5,5,yes
+May,34,4,159,RS,yes,1,Protestant,Mathematics and Statistics,3,18,Volunteer service,Strongly Disagree,Disagree,Agree,Agree,Disagree,Agree,Strongly Agree,Disagree,4,4,1,3,4,3,5,3,2,3,yes
+March,25,10,154,PH,no,3,Do not belong to a any religion,Social Science,3,16,None,Disagree,Strongly Disagree,,Agree,Strongly Agree,Agree,Disagree,Strongly Disagree,1,1,4,5,1,3,3,4,3,1,yes
+May,30,1,158,MW,no,3,Hindu,Mathematics and Statistics,4,1,Studying school abroad,Agree,Strongly Disagree,Disagree,Disagree,Agree,Agree,Disagree,Strongly Agree,3,1,5,5,1,3,3,5,2,1,no
+June,33,3,151,US,no,3,Roman Catholic,Information and Communication Technologies,2,14,Internship program,Strongly Disagree,Agree,,Agree,Disagree,Agree,Agree,Agree,1,3,1,2,3,2,4,5,5,1,no
+July,40,1,188,PH,yes,3,Jew,Social Science,2,-4,Volunteer service,Disagree,Agree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Disagree,Strongly Agree,5,4,1,3,3,5,1,5,3,3,yes
+May,31,2,189,SE,yes,2,Do not belong to a any religion,Information and Communication Technologies,2,16,Volunteer service,Disagree,Strongly Agree,,Disagree,Agree,Strongly Agree,Strongly Disagree,Agree,3,2,3,1,1,1,2,2,5,4,yes
+June,20,8,181,BR,no,4,Orthodox,Information and Communication Technologies,4,16,Volunteer service,Agree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,4,5,5,1,2,1,4,5,5,3,yes
+March,,9,188,CN,yes,1,Do not belong to a any religion,Arts and Humanities,5,15,Internship program,Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Agree,Strongly Disagree,Agree,4,5,5,5,3,3,5,1,2,5,no
+February,34,1,175,ID,yes,2,Buddhist,Mathematics and Statistics,2,3,None,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,3,2,1,2,1,1,4,4,1,3,yes
+February,28,7,157,BD,no,1,Jew,Natural Science,1,5,Internship program,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Strongly Agree,Strongly Disagree,1,5,5,3,1,5,1,1,1,3,yes
+February,26,7,154,BS,yes,3,Hindu,Mathematics and Statistics,5,13,Studying school abroad,Strongly Disagree,Strongly Disagree,Agree,Disagree,Strongly Disagree,Disagree,Agree,Disagree,2,4,1,2,5,4,2,3,4,5,no
+April,32,6,163,ID,yes,2,Other Christian,Information and Communication Technologies,4,19,Internship program,Agree,Strongly Disagree,,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,4,3,5,2,4,4,5,4,3,3,yes
+April,30,4,163,ID,yes,,,Social Science,,,,Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,5,4,1,2,3,2,4,1,2,2,yes
+May,37,2,158,TH,yes,1,Orthodox,Mathematics and Statistics,3,14,None,Strongly Agree,Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,4,5,2,4,2,5,5,2,2,2,yes
+April,32,7,174,PT,no,5,Jew,Social Science,1,20,Studying school abroad,Strongly Disagree,Agree,Agree,Strongly Agree,Disagree,Disagree,Agree,Disagree,1,4,1,2,1,1,3,2,5,3,yes
+July,24,5,151,BR,yes,4,Protestant,Arts and Humanities,1,-4,Studying school abroad,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Disagree,Disagree,2,4,1,3,1,5,1,1,4,3,no
+July,34,6,163,PH,no,5,Roman Catholic,Mathematics and Statistics,4,26,Volunteer service,,,Agree,,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,3,2,5,2,5,1,3,2,5,2,no
+April,27,4,165,NG,,3,Buddhist,Mathematics and Statistics,2,13,Studying school abroad,Agree,Strongly Agree,,Agree,Disagree,Strongly Agree,Agree,,,,,,,,,,,,
+July,24,10,155,PA,yes,5,Roman Catholic,Arts and Humanities,5,25,Volunteer service,Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,5,5,1,2,3,1,4,3,3,2,no
+May,30,5,158,NG,yes,4,Don't know,Information and Communication Technologies,3,27,Internship program,Disagree,Agree,Disagree,Agree,Agree,Agree,Strongly Agree,Agree,4,1,5,1,2,4,1,2,5,5,yes
+March,30,8,166,CN,no,1,Protestant,Information and Communication Technologies,4,15,Internship program,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,2,1,2,3,1,2,5,3,1,5,yes
+August,27,9,183,CN,no,5,Jew,Information and Communication Technologies,2,1,Studying school abroad,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,1,3,3,5,1,4,1,4,4,2,yes
+April,21,3,164,CN,no,3,Protestant,Business & Admin and Law,2,24,Internship program,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Disagree,3,3,1,2,2,2,1,2,3,5,yes
+May,20,3,172,CN,no,2,Roman Catholic,Arts and Humanities,5,4,Internship program,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,4,5,5,3,3,1,3,1,1,4,yes
+March,36,4,190,CA,no,2,Roman Catholic,Social Science,1,23,Studying school abroad,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,4,3,4,5,4,4,3,1,2,1,no
+July,,2,184,CN,yes,1,Buddhist,Natural Science,3,25,None,,,Strongly Disagree,,Disagree,Agree,Strongly Agree,Strongly Disagree,1,2,5,4,5,5,1,2,4,3,yes
+March,21,7,152,FI,no,5,Other,Business & Admin and Law,5,21,None,Strongly Agree,Strongly Agree,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,3,4,2,4,1,3,4,4,5,4,yes
+July,22,7,158,CN,yes,1,Do not belong to a any religion,Information and Communication Technologies,2,-3,Internship program,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,1,3,3,5,3,3,1,4,3,3,yes
+June,31,6,191,CN,yes,2,Other Christian,Social Science,1,27,None,Strongly Agree,Strongly Disagree,,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,Agree,5,4,2,2,5,3,2,3,1,5,yes
+February,25,10,199,ID,no,5,Don't know,Business & Admin and Law,5,-5,None,Disagree,Disagree,,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,2,3,1,3,5,1,4,2,2,4,no
+March,40,9,183,CN,no,1,Jew,Information and Communication Technologies,1,13,Studying school abroad,,,Agree,,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,5,3,2,1,5,4,1,5,5,2,no
+May,31,7,165,MX,yes,5,Orthodox,Arts and Humanities,3,11,None,Disagree,Agree,,Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,5,3,5,5,4,1,5,2,2,5,no
+February,39,9,192,ID,no,5,Do not belong to a any religion,Information and Communication Technologies,2,20,None,Agree,Strongly Disagree,Agree,Disagree,Disagree,Strongly Agree,Disagree,Agree,4,4,2,5,4,4,1,2,5,5,yes
+June,33,10,163,FR,yes,2,Other Christian,Natural Science,1,12,None,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,2,1,1,3,4,3,3,4,2,4,yes
+March,23,1,171,GT,yes,1,Buddhist,Natural Science,4,5,Internship program,Agree,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Disagree,Strongly Disagree,5,1,4,2,2,1,4,3,1,3,no
+March,30,8,199,YE,no,3,Buddhist,Arts and Humanities,1,22,None,,,Strongly Agree,,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,1,1,1,1,2,3,3,5,1,3,yes
+June,18,6,191,CN,no,3,Jew,Social Science,2,-2,Internship program,Strongly Agree,Agree,,Strongly Agree,Agree,Disagree,Agree,Agree,2,4,5,5,3,1,5,3,3,3,yes
+July,33,6,190,FR,yes,5,Protestant,Natural Science,5,17,Volunteer service,Agree,Strongly Disagree,Strongly Agree,Disagree,Disagree,Agree,Strongly Agree,Agree,5,4,3,1,4,1,1,5,5,4,no
+June,38,5,174,SE,yes,3,Roman Catholic,Mathematics and Statistics,5,25,Studying school abroad,Strongly Agree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Agree,2,2,5,5,4,5,2,1,3,2,yes
+February,31,8,151,RU,yes,4,Roman Catholic,Mathematics and Statistics,5,17,Volunteer service,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Disagree,Agree,Strongly Agree,4,3,4,4,4,5,3,5,2,3,yes
+March,33,9,166,ID,no,1,Other,Natural Science,3,5,Studying school abroad,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,2,4,3,3,3,1,3,5,3,3,yes
+August,30,5,188,IT,no,3,Don't know,Mathematics and Statistics,2,4,None,Agree,Strongly Disagree,,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,3,4,2,3,5,2,5,2,5,3,yes
+July,40,8,162,UA,no,3,Roman Catholic,Arts and Humanities,5,22,Studying school abroad,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Disagree,Disagree,Disagree,Agree,2,1,1,3,4,2,2,5,4,3,yes
+May,25,9,192,RU,yes,3,Orthodox,Arts and Humanities,3,-1,Volunteer service,Strongly Agree,Strongly Agree,,Agree,Disagree,Strongly Agree,Disagree,Strongly Agree,3,3,1,1,4,5,3,3,1,3,no
+February,,3,193,EG,yes,3,Other,Business & Admin and Law,2,15,Internship program,Agree,Agree,Strongly Disagree,Disagree,Agree,Agree,Strongly Agree,Agree,5,1,2,1,1,2,2,5,5,4,yes
+April,19,5,185,ZA,yes,2,Buddhist,Natural Science,3,6,Volunteer service,,,Agree,,Agree,Strongly Disagree,Agree,Strongly Agree,4,1,5,2,5,2,3,3,4,2,no
+July,19,1,199,CN,yes,4,Don't know,Mathematics and Statistics,3,7,Internship program,Agree,Agree,Agree,Agree,Disagree,Agree,Strongly Agree,Agree,1,3,2,3,4,3,4,1,1,4,yes
+February,23,1,161,DK,no,4,Jew,Information and Communication Technologies,2,14,Studying school abroad,Agree,Strongly Disagree,,Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,1,3,2,3,3,4,4,5,1,2,no
+June,21,6,194,FR,yes,1,Hindu,Natural Science,1,11,None,Disagree,Agree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Disagree,5,5,3,1,5,4,3,4,2,1,yes
+July,25,3,178,GB,yes,4,Don't know,Mathematics and Statistics,4,22,Studying school abroad,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Disagree,Disagree,Agree,1,5,2,3,4,3,1,1,4,2,yes
+June,40,1,198,CN,no,4,Other Christian,Social Science,5,2,None,Strongly Disagree,Agree,Strongly Agree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Disagree,2,5,2,2,1,1,1,4,1,4,yes
+August,25,4,184,FI,yes,3,Protestant,Natural Science,5,26,Studying school abroad,Strongly Disagree,Strongly Disagree,,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,2,4,4,2,5,2,4,3,4,5,yes
+March,18,6,168,MX,,4,Protestant,Information and Communication Technologies,5,18,None,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Disagree,Strongly Disagree,,,,,,,,,,,,
+July,37,10,184,BG,yes,3,Do not belong to a any religion,Information and Communication Technologies,1,15,Internship program,Disagree,Agree,Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,4,3,2,4,5,2,1,1,2,3,yes
+March,24,7,199,PH,yes,2,Other,Arts and Humanities,3,0,Studying school abroad,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,4,5,4,2,4,2,4,2,4,5,no
+August,40,7,196,CA,yes,4,Protestant,Social Science,1,17,Internship program,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,Disagree,1,3,3,4,5,3,1,2,4,3,yes
+March,39,7,170,CV,yes,3,Do not belong to a any religion,Natural Science,2,13,Volunteer service,Agree,Disagree,Agree,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,1,1,2,5,3,4,2,1,4,1,yes
+June,35,9,156,PT,no,5,Protestant,Natural Science,3,23,Volunteer service,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,4,5,1,4,3,5,1,5,4,2,no
+March,26,6,196,BY,no,1,Roman Catholic,Mathematics and Statistics,4,1,Volunteer service,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,1,5,3,2,5,1,3,1,1,3,no
+August,23,7,156,CN,no,3,Do not belong to a any religion,Social Science,5,5,Internship program,Agree,Disagree,Strongly Disagree,Disagree,Agree,Agree,Agree,Disagree,4,4,4,2,2,2,2,4,1,1,yes
+June,22,7,183,ID,yes,3,Other Christian,Information and Communication Technologies,3,17,Internship program,Strongly Agree,Agree,Strongly Disagree,Agree,Disagree,Agree,Disagree,Strongly Agree,2,5,1,5,5,4,1,4,3,5,yes
+June,19,6,195,CN,,3,Buddhist,Arts and Humanities,1,17,Volunteer service,Disagree,Strongly Agree,,Disagree,Strongly Disagree,Agree,Strongly Disagree,,,,,,,,,,,,
+April,20,6,171,MX,no,2,Do not belong to a any religion,Business & Admin and Law,4,7,Internship program,Strongly Disagree,Disagree,Strongly Agree,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,1,5,1,2,2,4,3,3,4,4,yes
+April,19,9,179,CN,no,2,Orthodox,Business & Admin and Law,2,19,Volunteer service,Strongly Agree,Agree,,Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,3,4,4,5,5,3,1,1,3,3,yes
+February,24,5,158,CO,no,3,Other,Natural Science,4,22,None,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Agree,Disagree,Strongly Disagree,4,2,1,3,3,1,5,3,1,1,yes
+April,28,4,192,BR,yes,4,Roman Catholic,Business & Admin and Law,1,18,Internship program,Strongly Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,2,3,2,5,2,5,1,5,2,3,yes
+February,21,1,155,BA,yes,1,Jew,Natural Science,4,2,Studying school abroad,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Agree,Disagree,Agree,4,1,3,4,5,3,3,4,1,5,yes
+July,18,9,156,ID,no,,,Social Science,,,,Strongly Agree,Strongly Disagree,Agree,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,3,4,2,3,4,4,5,1,5,4,no
+May,39,9,188,PH,no,4,Other Christian,Arts and Humanities,5,3,Internship program,Disagree,Disagree,,Agree,Agree,Agree,Disagree,Strongly Agree,2,4,3,5,4,4,5,5,3,3,no
+March,,10,180,FI,yes,4,Do not belong to a any religion,Social Science,3,22,Internship program,Agree,Disagree,,Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,2,5,1,2,1,3,3,5,2,2,yes
+March,40,6,170,ZA,yes,1,Jew,Natural Science,5,-5,Internship program,Disagree,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Strongly Agree,1,3,4,2,1,3,4,1,4,1,no
+May,40,4,154,US,no,5,Other,Social Science,4,24,None,Disagree,Strongly Disagree,Disagree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,3,1,2,3,5,1,2,1,1,3,yes
+May,23,4,154,EG,no,2,Don't know,Information and Communication Technologies,2,16,Studying school abroad,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,1,1,5,2,2,1,3,4,4,4,yes
+July,33,6,162,CN,yes,3,Orthodox,Social Science,1,15,Internship program,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,3,5,1,5,4,5,4,1,1,4,yes
+August,24,10,185,ID,yes,3,Protestant,Information and Communication Technologies,1,4,Volunteer service,Agree,Agree,,Strongly Disagree,Disagree,Disagree,Disagree,Strongly Agree,3,1,1,2,4,5,1,4,3,2,yes
+April,35,4,151,CN,no,4,Don't know,Social Science,2,14,Studying school abroad,Disagree,Agree,Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Agree,1,2,2,4,1,1,3,2,3,3,yes
+July,39,6,155,PT,no,2,Roman Catholic,Mathematics and Statistics,4,26,None,Strongly Agree,Agree,,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Agree,3,5,1,1,4,2,5,5,2,3,yes
+June,29,7,163,FI,no,2,Do not belong to a any religion,Mathematics and Statistics,3,25,Internship program,Strongly Disagree,Disagree,Disagree,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,2,5,4,2,4,5,3,4,2,4,no
+May,40,1,184,ID,,3,Hindu,Social Science,3,-3,None,Agree,Strongly Disagree,Agree,Strongly Agree,Agree,Agree,Strongly Agree,,,,,,,,,,,,
+August,,9,196,FR,yes,5,Jew,Mathematics and Statistics,1,4,Volunteer service,Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,3,2,3,1,4,1,2,4,2,4,no
+August,,3,156,RU,,1,Other Christian,Arts and Humanities,2,-2,None,Strongly Agree,Strongly Agree,,Strongly Disagree,Disagree,Disagree,Strongly Disagree,,,,,,,,,,,,
+August,25,2,185,CN,no,1,Other,Mathematics and Statistics,1,25,Volunteer service,Disagree,Strongly Agree,Agree,Strongly Agree,Disagree,Disagree,Strongly Agree,Disagree,5,2,4,5,1,1,5,3,2,4,yes
+May,34,2,158,FR,yes,4,Other,Information and Communication Technologies,5,27,Volunteer service,,,Disagree,,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,1,3,5,5,5,5,4,5,1,5,no
+June,26,8,191,LA,yes,3,Hindu,Arts and Humanities,3,-2,None,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,2,2,4,2,3,1,3,3,1,3,no
+February,25,8,178,PL,no,1,Do not belong to a any religion,Mathematics and Statistics,3,14,Studying school abroad,Strongly Agree,Strongly Disagree,,Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,3,3,5,5,4,1,5,4,2,2,no
+August,,4,162,PT,yes,2,Other,Information and Communication Technologies,5,18,Studying school abroad,Agree,Disagree,Strongly Agree,Agree,Strongly Agree,Disagree,Agree,Agree,2,3,5,3,5,5,2,5,4,5,no
+February,32,3,177,BR,no,4,Buddhist,Mathematics and Statistics,5,24,Volunteer service,Disagree,Strongly Disagree,,Agree,Agree,Strongly Disagree,Disagree,Agree,2,5,4,5,4,1,5,3,2,2,yes
+February,39,5,184,GT,no,4,Roman Catholic,Natural Science,2,15,Volunteer service,Strongly Agree,Disagree,Strongly Agree,Agree,Agree,Strongly Agree,Disagree,Disagree,2,4,2,4,5,4,2,1,5,5,no
+February,21,8,185,PH,no,,,Information and Communication Technologies,,,,,,Strongly Disagree,,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,3,4,3,5,4,3,3,2,5,1,yes
+February,32,1,180,HR,yes,1,Other Christian,Information and Communication Technologies,3,27,Studying school abroad,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,5,2,1,4,5,2,5,2,4,4,no
+March,36,10,153,CN,yes,5,Hindu,Information and Communication Technologies,1,10,None,Strongly Agree,Strongly Agree,,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,5,3,3,5,3,1,3,4,4,1,yes
+May,32,4,168,FR,no,5,Jew,Arts and Humanities,2,13,Studying school abroad,Agree,Strongly Disagree,Agree,Disagree,Strongly Disagree,Agree,Disagree,Strongly Agree,5,4,3,2,4,2,4,5,1,3,yes
+April,35,8,194,ES,no,3,Jew,Business & Admin and Law,1,7,Studying school abroad,Strongly Agree,Strongly Agree,,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,3,1,5,5,4,1,4,3,3,3,yes
+March,31,5,179,AR,no,2,Hindu,Mathematics and Statistics,4,6,Volunteer service,Strongly Disagree,Agree,,Disagree,Strongly Disagree,Agree,Disagree,Strongly Agree,3,2,1,1,1,3,5,2,2,2,no
+March,21,5,183,CO,no,3,Do not belong to a any religion,Natural Science,4,27,Studying school abroad,,,Disagree,,Agree,Agree,Disagree,Agree,4,5,4,4,4,1,2,4,5,1,yes
+June,21,6,167,CR,no,3,Other Christian,Mathematics and Statistics,1,6,None,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Disagree,2,1,3,4,4,3,1,2,5,1,yes
+April,32,4,192,RU,yes,1,Protestant,Information and Communication Technologies,3,-1,Studying school abroad,Disagree,Strongly Disagree,,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,4,5,5,1,3,3,5,1,3,4,no
+May,,10,173,RU,yes,4,Other Christian,Mathematics and Statistics,3,8,None,Strongly Agree,Strongly Agree,,Disagree,Agree,Disagree,Strongly Agree,Disagree,4,2,4,1,5,2,2,5,4,3,yes
+July,19,3,182,ID,yes,1,Roman Catholic,Information and Communication Technologies,3,15,None,Disagree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,3,2,1,3,2,3,5,2,3,5,yes
+July,38,1,151,HR,no,5,Roman Catholic,Social Science,1,1,None,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Agree,Strongly Agree,Disagree,Agree,2,4,3,3,2,5,3,5,3,5,yes
+June,29,7,175,UA,no,1,Hindu,Business & Admin and Law,1,12,None,Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Agree,Agree,2,2,5,4,2,4,3,3,4,4,no
+July,40,6,176,HT,no,2,Other,Natural Science,2,25,None,Agree,Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Disagree,1,2,4,3,1,5,5,1,3,3,no
+August,23,2,172,SI,yes,1,Protestant,Business & Admin and Law,3,23,Volunteer service,Strongly Agree,Disagree,Disagree,Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,1,3,2,4,2,1,4,3,3,3,no
+March,22,9,155,ID,no,2,Do not belong to a any religion,Natural Science,2,-4,Volunteer service,,,Disagree,,Strongly Disagree,Agree,Agree,Disagree,5,1,1,1,1,2,3,4,2,1,no
+April,22,9,152,PH,no,1,Other Christian,Social Science,5,6,Studying school abroad,Strongly Disagree,Disagree,Strongly Agree,Disagree,Agree,Disagree,Strongly Disagree,Strongly Agree,5,5,4,1,4,1,1,5,4,2,no
+April,27,2,154,CN,no,4,Roman Catholic,Mathematics and Statistics,1,6,Internship program,Agree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,2,3,2,1,2,3,4,4,5,5,yes
+August,29,9,192,CN,yes,,,Arts and Humanities,,,,Agree,Strongly Agree,Strongly Agree,Agree,Agree,Disagree,Strongly Agree,Strongly Disagree,4,5,3,4,5,4,5,1,4,2,yes
+June,22,1,178,TH,yes,4,Don't know,Business & Admin and Law,4,25,Internship program,Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,2,1,3,2,4,2,2,5,4,3,no
+March,23,2,195,CN,no,3,Buddhist,Information and Communication Technologies,3,14,Studying school abroad,Strongly Disagree,Agree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,1,2,5,1,5,5,4,1,2,1,no
+August,,4,200,PH,no,1,Buddhist,Social Science,2,-1,Studying school abroad,Disagree,Agree,Agree,Agree,Disagree,Disagree,Disagree,Strongly Agree,5,4,1,5,1,2,3,3,4,2,yes
+March,20,5,165,ID,,1,Orthodox,Arts and Humanities,4,5,Volunteer service,Agree,Disagree,Strongly Disagree,Agree,Disagree,Disagree,Disagree,,,,,,,,,,,,
+July,35,9,153,RU,no,,,Mathematics and Statistics,,,,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,5,5,3,2,2,4,3,3,4,3,no
+April,21,8,168,UA,no,4,Other Christian,Arts and Humanities,3,27,Internship program,Strongly Agree,Agree,,Disagree,Disagree,Agree,Strongly Disagree,Disagree,1,4,2,2,4,5,5,1,4,2,yes
+August,30,1,172,PT,no,2,Do not belong to a any religion,Business & Admin and Law,2,4,Volunteer service,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Disagree,4,2,2,2,5,4,5,4,3,5,no
+February,25,7,163,GT,,4,Other,Mathematics and Statistics,3,-4,Studying school abroad,Agree,Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,,,,,,,,,,,,
+March,20,3,192,CN,no,2,Jew,Arts and Humanities,5,20,None,Agree,Disagree,Agree,Disagree,Strongly Agree,Disagree,Agree,Strongly Disagree,2,3,5,2,4,1,5,4,5,5,no
+May,19,2,180,CN,no,5,Other Christian,Mathematics and Statistics,1,3,None,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Agree,Disagree,Disagree,Agree,5,1,2,1,2,1,5,5,1,1,no
+February,34,6,152,ID,yes,5,Other,Mathematics and Statistics,4,-5,Volunteer service,Agree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Disagree,Disagree,Disagree,1,5,5,5,3,2,3,3,2,3,no
+May,,4,160,ID,,3,Jew,Mathematics and Statistics,3,16,None,Disagree,Strongly Agree,,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,,,,,,,,,,,,
+February,21,2,188,LU,no,,,Mathematics and Statistics,,,,,,,,Agree,Disagree,Strongly Agree,Agree,5,3,3,1,1,1,4,5,2,4,no
+June,39,1,160,SE,no,3,Orthodox,Social Science,2,-2,Studying school abroad,Disagree,Disagree,,Strongly Agree,Disagree,Agree,Strongly Disagree,Strongly Agree,4,3,3,2,5,1,5,1,2,2,no
+June,40,4,171,PL,yes,,,Natural Science,,,,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Disagree,1,5,5,1,2,4,3,4,3,5,yes
+May,40,9,200,CN,yes,5,Jew,Natural Science,2,4,Studying school abroad,Agree,Agree,Strongly Agree,Strongly Disagree,Agree,Disagree,Disagree,Disagree,5,4,1,1,5,5,2,4,5,4,no
+April,34,3,158,CN,yes,3,Jew,Arts and Humanities,3,-4,Studying school abroad,Strongly Disagree,Strongly Disagree,,Agree,Strongly Agree,Disagree,Agree,Strongly Disagree,5,5,1,5,4,3,5,1,3,3,yes
+August,28,10,182,MG,yes,5,Hindu,Business & Admin and Law,3,24,Volunteer service,Agree,Disagree,,Disagree,Disagree,Strongly Agree,Agree,Agree,3,2,4,3,5,5,1,2,4,4,no
+February,18,10,163,PH,no,4,Protestant,Business & Admin and Law,3,1,None,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,2,2,4,4,5,4,1,2,4,5,no
+March,31,3,162,RU,yes,4,Do not belong to a any religion,Natural Science,5,20,None,Disagree,Strongly Agree,Strongly Disagree,Agree,Agree,Disagree,Strongly Disagree,Agree,1,4,5,3,3,4,2,2,2,2,yes
+April,21,2,162,PH,yes,3,Other Christian,Information and Communication Technologies,4,15,Internship program,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,2,5,4,1,2,4,2,2,5,3,no
+July,26,6,168,CN,yes,5,Protestant,Mathematics and Statistics,1,1,None,Agree,Agree,Strongly Agree,Strongly Disagree,Agree,Agree,Disagree,Agree,2,3,4,3,4,2,4,3,4,4,no
+August,36,3,184,AR,no,4,Do not belong to a any religion,Information and Communication Technologies,5,18,Internship program,Disagree,Agree,Strongly Agree,Disagree,Disagree,Disagree,Strongly Agree,Strongly Agree,1,1,5,5,5,4,2,3,5,1,yes
+May,39,4,181,CN,no,2,Orthodox,Business & Admin and Law,2,13,Volunteer service,Strongly Disagree,Disagree,,Agree,Strongly Disagree,Disagree,Disagree,Disagree,1,1,4,2,2,5,4,3,2,2,no
+June,26,4,172,BO,no,2,Orthodox,Information and Communication Technologies,5,15,Internship program,Strongly Agree,Disagree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,2,4,1,5,4,4,5,2,1,4,no
+August,37,4,158,RU,yes,2,Buddhist,Arts and Humanities,3,15,Volunteer service,Strongly Disagree,Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,3,4,3,3,3,2,3,3,1,5,no
+February,32,7,196,PT,no,2,Buddhist,Arts and Humanities,2,6,None,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,5,2,5,3,5,2,2,3,4,2,no
+February,20,10,162,BG,no,,,Natural Science,,,,Strongly Agree,Agree,,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,3,2,1,3,1,5,1,5,4,4,no
+August,27,8,181,CA,yes,5,Buddhist,Natural Science,2,19,Studying school abroad,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,5,5,2,3,5,2,1,1,2,5,yes
+August,40,4,171,DO,yes,3,Buddhist,Natural Science,1,15,Internship program,Strongly Disagree,Disagree,,Disagree,Strongly Disagree,Disagree,Disagree,Disagree,3,4,3,3,4,5,4,5,1,3,yes
+July,,10,158,HN,no,5,Roman Catholic,Natural Science,3,-4,Volunteer service,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,5,1,3,5,1,1,4,3,1,4,yes
+July,27,8,200,ID,yes,2,Do not belong to a any religion,Information and Communication Technologies,4,1,Studying school abroad,Strongly Disagree,Disagree,,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,4,5,3,3,3,4,1,4,3,3,no
+August,19,4,181,CN,no,4,Hindu,Arts and Humanities,1,24,Volunteer service,Strongly Disagree,Disagree,Strongly Agree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,2,5,5,1,2,3,3,4,2,3,no
+March,25,9,152,CN,yes,4,Protestant,Information and Communication Technologies,5,17,Internship program,Strongly Agree,Agree,Disagree,Agree,Disagree,Strongly Agree,Agree,Disagree,3,4,1,1,2,1,1,5,2,4,no
+July,19,6,191,ID,no,4,Don't know,Arts and Humanities,3,7,Volunteer service,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Disagree,Strongly Agree,Disagree,Disagree,3,5,3,1,2,5,2,2,5,1,yes
+May,18,8,189,ML,no,,,Social Science,,,,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Disagree,Strongly Agree,Disagree,1,1,4,3,3,3,1,4,1,5,yes
+July,32,5,190,ML,no,2,Other Christian,Arts and Humanities,4,10,Internship program,Agree,Agree,Disagree,Strongly Agree,Disagree,Agree,Disagree,Disagree,3,5,1,4,1,2,1,5,3,5,no
+February,18,9,163,UA,yes,4,Other,Information and Communication Technologies,5,7,Volunteer service,Agree,Agree,Disagree,Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,5,1,5,1,2,4,2,2,3,3,yes
+August,37,7,195,CN,no,4,Hindu,Information and Communication Technologies,1,24,None,,,Agree,,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,5,4,2,4,2,1,2,3,4,2,no
+July,37,1,163,ID,,2,Protestant,Business & Admin and Law,3,26,Internship program,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Disagree,Strongly Disagree,,,,,,,,,,,,
+April,26,9,192,IE,yes,,,Natural Science,,,,Disagree,Agree,Strongly Disagree,Agree,Agree,Agree,Strongly Agree,Agree,4,3,3,5,1,5,5,4,2,2,no
+August,25,3,176,FI,,4,Other,Social Science,5,27,None,Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Agree,Strongly Disagree,,,,,,,,,,,,
+March,28,1,198,CA,yes,5,Other Christian,Arts and Humanities,1,2,Studying school abroad,,,Agree,,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,4,1,5,1,1,3,1,4,2,4,yes
+August,34,5,171,PK,yes,5,Other,Arts and Humanities,2,18,None,Disagree,Strongly Agree,Strongly Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,3,2,4,1,3,4,4,1,4,1,no
+February,40,4,160,RU,no,,,Business & Admin and Law,,,,Agree,Disagree,Strongly Agree,Strongly Disagree,Agree,Disagree,Disagree,Agree,4,2,5,5,2,4,3,5,3,1,no
+February,29,2,179,US,,3,Jew,Business & Admin and Law,3,18,Internship program,Agree,Strongly Agree,Strongly Agree,Agree,Disagree,Agree,Strongly Agree,,,,,,,,,,,,
+April,26,4,193,CN,,3,Do not belong to a any religion,Business & Admin and Law,1,-5,Volunteer service,Strongly Agree,Disagree,,Disagree,Strongly Agree,Agree,Strongly Disagree,,,,,,,,,,,,
+July,34,5,166,CN,no,1,Orthodox,Natural Science,3,19,Studying school abroad,Agree,Strongly Disagree,Agree,Strongly Disagree,Agree,Agree,Disagree,Agree,4,3,4,5,5,4,4,1,2,2,yes
+April,30,5,167,ID,yes,1,Don't know,Social Science,3,13,Volunteer service,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,1,1,4,4,1,3,3,4,4,3,no
+July,,4,172,PL,yes,4,Buddhist,Mathematics and Statistics,3,22,Volunteer service,Disagree,Disagree,,Strongly Agree,Disagree,Strongly Agree,Disagree,Agree,2,1,3,1,3,3,2,3,3,2,yes
+April,35,1,163,CN,no,1,Jew,Mathematics and Statistics,2,-2,Internship program,Disagree,Disagree,,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,4,1,2,2,3,1,4,1,1,2,no
+February,23,1,157,ES,no,3,Other,Natural Science,3,-1,Internship program,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,2,1,1,3,4,3,2,2,4,5,no
+February,19,5,162,NG,,1,Hindu,Business & Admin and Law,4,16,Volunteer service,Strongly Disagree,Disagree,Agree,Strongly Agree,Disagree,Strongly Disagree,Agree,,,,,,,,,,,,
+June,18,5,192,CN,no,3,Roman Catholic,Mathematics and Statistics,5,12,None,Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,2,5,5,1,4,5,1,3,3,1,yes
+August,40,8,169,KI,yes,5,Hindu,Natural Science,5,17,Studying school abroad,Strongly Agree,Strongly Agree,,Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,1,5,4,1,1,3,3,1,1,4,yes
+February,29,2,183,CN,,3,Other,Natural Science,5,8,Volunteer service,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Agree,,,,,,,,,,,,
+August,32,1,157,CN,yes,2,Other,Natural Science,3,20,Internship program,Disagree,Disagree,Disagree,Agree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,2,5,2,5,3,1,2,1,2,5,no
+April,37,8,154,ID,yes,5,Orthodox,Information and Communication Technologies,3,4,Studying school abroad,Strongly Agree,Disagree,Agree,Strongly Agree,Disagree,Disagree,Disagree,Disagree,2,3,5,2,4,3,5,5,4,2,no
+July,18,5,151,NG,yes,4,Other Christian,Business & Admin and Law,1,5,Volunteer service,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Agree,Disagree,Agree,2,2,2,1,5,1,1,5,5,4,no
+August,26,9,173,AL,no,1,Buddhist,Business & Admin and Law,2,11,Volunteer service,Strongly Disagree,Agree,,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,4,5,5,1,5,2,3,1,4,3,yes
+April,31,5,151,ID,yes,3,Other,Information and Communication Technologies,2,24,Studying school abroad,Strongly Agree,Strongly Agree,Disagree,Agree,Agree,Strongly Agree,Agree,Agree,4,4,4,2,5,3,2,3,5,5,yes
+August,31,8,198,CN,yes,4,Other,Information and Communication Technologies,5,5,Internship program,Disagree,Agree,Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,4,1,5,2,5,5,3,5,3,4,no
+August,33,1,196,KR,yes,2,Don't know,Information and Communication Technologies,3,17,None,Strongly Agree,Agree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,Disagree,3,1,3,3,2,5,5,5,5,3,yes
+February,35,4,192,BO,no,,,Business & Admin and Law,,,,Agree,Disagree,Agree,Strongly Agree,Disagree,Agree,Strongly Disagree,Agree,1,2,1,1,5,1,3,3,4,5,yes
+May,24,6,165,PL,yes,3,Protestant,Natural Science,2,0,None,Agree,Strongly Agree,,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,Disagree,4,4,1,5,5,5,2,5,5,1,yes
+July,26,5,167,CN,no,3,Buddhist,Social Science,2,25,Studying school abroad,Agree,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,5,1,1,3,2,2,3,2,4,3,no
+May,39,3,154,SE,no,5,Don't know,Information and Communication Technologies,2,18,None,Strongly Agree,Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,5,4,2,4,2,3,4,4,5,1,yes
+May,28,1,183,ES,yes,3,Orthodox,Information and Communication Technologies,5,11,None,Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Agree,Disagree,Strongly Disagree,2,1,5,4,5,4,5,2,5,4,yes
+July,26,6,159,CN,no,3,Other Christian,Information and Communication Technologies,2,23,None,Strongly Disagree,Strongly Agree,Disagree,Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,5,4,4,1,5,4,2,3,2,2,yes
+June,22,4,183,PL,no,3,Other Christian,Business & Admin and Law,2,15,Volunteer service,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Disagree,4,1,3,2,5,4,2,2,1,2,yes
+May,33,10,172,BR,no,4,Protestant,Mathematics and Statistics,3,-5,Studying school abroad,Strongly Disagree,Strongly Agree,Disagree,Agree,Strongly Disagree,Agree,Disagree,Strongly Agree,1,5,4,4,1,5,3,5,4,5,yes
+July,38,8,156,CM,yes,2,Protestant,Arts and Humanities,1,2,Studying school abroad,Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,3,3,5,5,1,2,1,2,3,2,no
+April,33,7,155,RU,no,2,Do not belong to a any religion,Business & Admin and Law,3,5,Studying school abroad,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,4,3,2,5,5,4,3,2,2,1,no
+July,26,5,190,SE,yes,1,Protestant,Information and Communication Technologies,1,22,None,Strongly Agree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,2,4,4,3,5,5,1,1,2,1,yes
+July,38,3,152,CA,no,5,Jew,Social Science,4,6,Studying school abroad,Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Disagree,Strongly Disagree,4,1,4,1,2,5,2,4,4,1,yes
+April,34,10,169,NL,no,4,Other Christian,Mathematics and Statistics,1,-3,Internship program,Agree,Disagree,Agree,Disagree,Agree,Strongly Agree,Disagree,Agree,5,1,2,1,4,2,2,5,1,4,no
+February,23,2,173,AL,yes,4,Hindu,Natural Science,1,2,Internship program,Strongly Disagree,Disagree,Disagree,Agree,Agree,Agree,Agree,Strongly Agree,1,3,2,1,2,1,1,2,4,3,yes
+July,36,10,177,NG,yes,2,Buddhist,Information and Communication Technologies,5,21,Studying school abroad,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Agree,3,3,4,5,4,5,5,3,5,5,no
+February,35,7,174,SE,no,5,Protestant,Natural Science,4,22,None,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Disagree,1,2,3,5,4,1,2,3,2,3,yes

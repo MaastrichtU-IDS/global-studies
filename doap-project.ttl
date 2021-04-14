@@ -1,0 +1,29 @@
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix asf: <http://projects.apache.org/ns/asfext#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+
+<https://w3id.org/um/ids/projects#global-studies-methods-track>
+  a doap:Project ;
+  doap:name "Global Studies Methods Track" ;
+  doap:description '''Educational resources for the bachelor on Global Studies methods track''' ;
+  bibo:status "Active" ;
+
+  doap:programming-language "Python" ;
+  doap:license <https://www.gnu.org/licenses/gpl-3.0> ;
+  doap:homepage <https://colab.research.google.com/github/MaastrichtU-IDS/global-studies-methods/blob/master/notebooks/Index.ipynb> ;
+  doap:bug-database <https://github.com/MaastrichtU-IDS/global-studies-methods/issues> ;
+  
+  
+  
+  doap:mailing-list <EDU-IDS-edu@maastrichtuniversity.nl> ;
+  doap:category "Education" ;
+  doap:repository [
+    a doap:GitRepository ;
+    doap:location <https://github.com/MaastrichtU-IDS/global-studies-methods> ;
+  ] ;
+  doap:maintainer [
+    a foaf:Person ;
+    foaf:name "Carlos Utrilla Guerrero; Pedro V Hernandez" ;
+    foaf:mbox <mailto:c.utrillaguerrero@maastrichtuniversity.nl>
+  ] .
