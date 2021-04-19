@@ -3,7 +3,7 @@
 
 This website contains a collection of  tutorials, developed at the University of Maastricht for our students in Global Studies that use python. 
 
-The goal is to organize relevant material for quantiative methods in a efficient manner, that can be findable and accessible and reusable to students during and after their studies, and can be used across semesters.
+The goal is to organize relevant material for quantiative methods in a efficient manner, that can be findable, accessible and reusable to students during and after their studies, and can be used across semesters.
 
 ![](https://www.maastrichtuniversity.nl/sites/default/files/styles/page_photo/public/global_studies_logo_2.jpg?itok=NzXDp5cZ)
 
