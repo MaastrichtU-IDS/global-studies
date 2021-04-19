@@ -12,7 +12,7 @@ Today is an introduction to statistics and coding in Python for our students in 
 
 ### Jupyter Notebooks
 Today we will focus on the following:
-+ [Variables and basic operations](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1.1-variables-and-assig.ipynb)
++ [Variables and basic operations](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1.1-variables-and-assig.ipynb) - [Sol](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1.3-built-in-functions-and-libraries-solutions.ipynb)
 + [Data Types](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1.2-data-types.ipynb)
 + [Built-in functions and libraries](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1.3-built-in-functions-and-libraries.ipynb)
 + [For Loops and List](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/1.4-for-loops.ipynb)
