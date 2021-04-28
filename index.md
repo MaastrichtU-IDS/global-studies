@@ -21,8 +21,8 @@ Today is an introduction to statistics and coding in Python for our students in 
 This week’s tutorial covers how to access already existing data sources and how to store the data using Pandas library. You will learn how to generate data from distributions and how to sample using the Numpy library. You will learn the differences between true-positive and false-positive conclusions.
 
 #### Jupyter Notebooks
-+ [Distributions and Sampling with Numpy](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.1-distributions-and-sampling-numpy.ipynb)
-+ [Dataframes and Confusion Matrix with Pandas](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.2-data-handling-pandas.ipynb)
++ [Distributions and Sampling with Numpy](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.1-distributions-and-sampling-numpy.ipynb) - ✔️ [Solutions](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.1-distributions-and-sampling-numpy-solutions.ipynb)
++ [Dataframes and Confusion Matrix with Pandas](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.2-data-handling-pandas.ipynb) - ✔️ [Solutions](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.2-data-handling-pandas-solutions.ipynb)
 
 
 ## License
