@@ -28,7 +28,7 @@ This week’s tutorial covers how to access already existing data sources and ho
 In this week’s tutorial, you will practice with NHST. In particular, you will run t-tests for independent groups using Python and the Jupyter notebook. You will learn how to obtain and interpret p-values and how to substantially interpret statistical results. 
 
 #### Jupyter Notebooks
-+ [Introduction to Null Hypothesis Significance Test](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.1-NHST-with-python.ipynb)
++ [Introduction to Null Hypothesis Significance Test](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.1-NHST-with-python.ipynb)  - ✔️ [Solutions](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.1-NHST-with-python-solutions.ipynb)
 
 
 ## License
