@@ -34,8 +34,7 @@ In this week’s tutorial, you will practice with NHST. In particular, you will 
 During this week’s session, you will use provided datasets to conduct t-tests for correlations and dependence between two variables. You will learn how to interpret the p-value and how to relate the statistical conclusions. 
 
 #### Jupyter Notebooks
-+ [Complex Null Hypothesis Significance Test](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.2-NHST-advanced-with-python.ipynb)
-
++ [Complex Null Hypothesis Significance Test](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.2-NHST-advanced-with-python.ipynb) - ✔️ [Solutions](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.2-NHST-advanced-with-python-solutions.ipynb)
 
 ## License
 
