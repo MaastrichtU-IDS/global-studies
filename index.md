@@ -21,20 +21,28 @@ Today is an introduction to statistics and coding in Python for our students in 
 This week’s tutorial covers how to access already existing data sources and how to store the data using Pandas library. You will learn how to generate data from distributions and how to sample using the Numpy library. You will learn the differences between true-positive and false-positive conclusions.
 
 #### Jupyter Notebooks
-+ [Distributions and Sampling with Numpy](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.1-distributions-and-sampling-numpy.ipynb) - ✔️ [Solutions](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.1-distributions-and-sampling-numpy-solutions.ipynb)
-+ [Dataframes and Confusion Matrix with Pandas](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.2-data-handling-pandas.ipynb) - ✔️ [Solutions](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.2-data-handling-pandas-solutions.ipynb)
++ [Distributions and Sampling with Numpy](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.1-distributions-and-sampling-numpy.ipynb) - ✔️ [Solutions](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.1-distributions-and-sampling-numpy-solutions.ipynb)
++ [Dataframes and Confusion Matrix with Pandas](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.2-data-handling-pandas.ipynb) - ✔️ [Solutions](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/2.2-data-handling-pandas-solutions.ipynb)
 
 ## Tutorial 3
 In this week’s tutorial, you will practice with NHST. In particular, you will run t-tests for independent groups using Python and the Jupyter notebook. You will learn how to obtain and interpret p-values and how to substantially interpret statistical results. 
 
 #### Jupyter Notebooks
-+ [Introduction to Null Hypothesis Significance Test](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.1-NHST-with-python.ipynb)  - ✔️ [Solutions](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.1-NHST-with-python-solutions.ipynb)
++ [Introduction to Null Hypothesis Significance Test](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.1-NHST-with-python.ipynb)  - ✔️ [Solutions](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.1-NHST-with-python-solutions.ipynb)
 
 ## Tutorial 4
 During this week’s session, you will use provided datasets to conduct t-tests for correlations and dependence between two variables. You will learn how to interpret the p-value and how to relate the statistical conclusions. 
 
 #### Jupyter Notebooks
-+ [Complex Null Hypothesis Significance Test](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.2-NHST-advanced-with-python.ipynb) - ✔️ [Solutions](https://github.com/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.2-NHST-advanced-with-python-solutions.ipynb)
++ [Complex Null Hypothesis Significance Test](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.2-NHST-advanced-with-python.ipynb) - ✔️ [Solutions](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/3.2-NHST-advanced-with-python-solutions.ipynb)
+
+## Tutorial 5
+In this visualization lab, you will learn how to make interactive charts. Additionally, you will learn how to create correlation matrices, which represent the relationships between variables. 
+
+#### Jupyter Notebooks
++ [Visualization Lab](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/4.1-data-visualization.ipynb)
+
+
 
 ## License
 
