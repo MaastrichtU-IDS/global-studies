@@ -41,6 +41,7 @@ In this visualization lab, you will learn how to make interactive charts. Additi
 
 #### Jupyter Notebooks
 + [Visualization Lab](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/4.1-data-visualization.ipynb)
++ [Visualization Lab - tutorial 7 2021](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/global-studies/blob/main/semester2/notebooks/GLO1101-Tutorial-7-Data-Visualisation.ipynb)
 
 
 
