@@ -1,0 +1,17 @@
+variable;description
+id;Timestamp
+age;Age
+gender;Gender
+height;Height (scale in cm, e.g. 183)
+country;Where are you come from? (Country)
+language;How many language you speak at home to your family?
+freq_travel;How many different countries have you lived in?
+past_exp;Past intercultural experience: have you ever done one of the following international programs?
+q1;Indicate how strong you agree/disagree with the following sentence: [Q1. Interreligious dialog may help to mitigate conflicts and misunderstandings in society?]
+q2;Indicate how strong you agree/disagree with the following sentence: [Q2. Is there the same freedom of religious practice for all religions in the society?]
+q3;Indicate how strong you agree/disagree with the following sentence: [Q3. People should have the right to live how they wish]
+q4;Indicate how strong you agree/disagree with the following sentence: [Q4. It is important that people have the freedom to live their life as they choose]
+q5;Indicate how strong you agree/disagree with the following sentence: [Q5. It is okay for people to live as they wish as long as they do not harm other people]
+q6;Indicate how strong you agree/disagree with the following sentence: [Q6. I respect other people’s beliefs and opinions]
+q7;Indicate how strong you agree/disagree with the following sentence: [Q7. I respect other people’s opinions even when I do not agree]
+q8;Indicate how strong you agree/disagree with the following sentence: [Q8. I like to spend time with people who are different from me]

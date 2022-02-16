@@ -1,0 +1,151 @@
+id,age,gender,height,country,language,freq_travel,past_exp,q1,q2,q3,q4,q5,q6,q7,q8
+1,34,0,186,Spain,1,5,Volunteer service,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+2,34,6,157,BR,2,3,Internship program,Strongly Agree,Strongly Agree,Agree,Agree,Disagree,Disagree,Disagree,Disagree
+3,27,8,191,RU,4,2,Studying school abroad,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree
+4,35,5,165,RU,3,5,Studying school abroad,Disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,Agree,Agree,Agree
+5,34,2,164,ID,5,5,Studying school abroad,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Disagree,Disagree,Agree
+6,,2,165,ID,3,3,Studying school abroad,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Agree,Agree,Disagree,Agree
+8,32,4,222,ID,3,5,Volunteer service,Strongly Agree,Agree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Agree,Strongly Disagree
+9,39,8,173,CN,4,5,Studying school abroad,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree
+10,29,9,177,AL,2,1,None,Strongly Disagree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree
+11,19,2,159,NI,2,4,None,Disagree,Strongly Disagree,,Strongly Disagree,Agree,Agree,Disagree,Disagree
+12,18,6,188,UA,2,1,Volunteer service,,,,,Strongly Agree,Disagree,Agree,
+14,,10,179,ID,3,1,Studying school abroad,Strongly Agree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Agree
+15,38,9,169,CN,4,4,Volunteer service,Strongly Disagree,Strongly Disagree,,Agree,Agree,Agree,Strongly Disagree,
+16,25,9,193,ID,4,3,Studying school abroad,Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree
+17,23,1,175,CZ,2,4,None,Disagree,Strongly Disagree,,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree
+19,28,2,185,DE,3,2,Internship program,,,Agree,,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree
+20,19,8,161,PA,1,1,Studying school abroad,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Strongly Disagree,Agree,
+21,33,2,154,RU,,,,Agree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Strongly Agree,
+22,36,6,153,RU,5,3,Volunteer service,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,
+23,40,1,193,CN,5,1,Internship program,Agree,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Agree,Agree
+24,,7,175,FR,1,1,Studying school abroad,Strongly Disagree,Agree,Agree,Agree,Agree,Strongly Disagree,Strongly Disagree,
+25,31,9,176,AR,2,1,None,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Strongly Agree,
+26,31,5,174,CA,5,4,None,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Strongly Agree,Disagree,Agree
+28,31,3,173,RU,5,4,Studying school abroad,Disagree,Agree,Strongly Agree,Agree,Agree,Strongly Disagree,Disagree,Disagree
+29,31,5,162,PH,4,5,Studying school abroad,Disagree,Disagree,Agree,Disagree,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree
+30,21,1,185,BR,2,4,Internship program,Strongly Agree,Disagree,Strongly Agree,Disagree,Disagree,Agree,Strongly Agree,Strongly Agree
+32,29,7,173,MN,5,2,Volunteer service,Strongly Agree,Strongly Agree,Disagree,Agree,Strongly Disagree,Disagree,Agree,Disagree
+33,,2,158,SE,1,5,Studying school abroad,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Agree,Agree,Agree
+35,38,1,179,PL,2,1,None,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Strongly Disagree,
+37,40,1,174,CN,3,2,Volunteer service,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Disagree
+38,22,5,187,BR,1,5,Volunteer service,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree
+39,31,9,153,CZ,4,1,Studying school abroad,Agree,Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree
+40,21,7,178,CN,5,2,Volunteer service,,,Disagree,,Agree,Strongly Agree,Strongly Disagree,
+41,33,7,192,CN,4,4,Internship program,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree
+42,18,10,196,CN,2,1,Internship program,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Agree,Agree,Strongly Agree
+43,25,9,176,NL,,,,Strongly Disagree,Agree,Disagree,Agree,Strongly Agree,Strongly Agree,Agree,Disagree
+44,25,4,192,CN,5,2,Internship program,Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree
+45,18,3,163,UA,5,3,None,Strongly Disagree,Strongly Disagree,,Strongly Agree,Strongly Agree,Strongly Disagree,Agree,
+46,25,7,163,BG,,,,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,
+49,34,8,171,CN,5,5,Volunteer service,Disagree,Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree
+50,35,3,190,CN,,,,Disagree,Strongly Disagree,,Disagree,Agree,Disagree,Disagree,Strongly Disagree
+51,23,2,186,SY,3,5,Studying school abroad,Strongly Disagree,Disagree,Agree,Agree,Agree,Disagree,Strongly Agree,Strongly Agree
+52,24,5,176,CN,2,3,None,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Disagree,Strongly Disagree
+53,18,10,157,PH,4,4,Internship program,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Agree,
+54,21,2,152,CN,4,1,Volunteer service,Strongly Agree,Strongly Agree,Agree,Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree
+55,26,5,183,JP,3,2,Internship program,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree
+56,30,7,198,CN,4,1,Volunteer service,,,Strongly Disagree,,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree
+58,33,5,172,ID,5,3,Internship program,Disagree,Disagree,,Agree,Strongly Disagree,Strongly Disagree,Agree,Disagree
+59,28,9,160,PS,5,5,None,Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Agree,Disagree
+60,20,3,198,FR,4,1,Studying school abroad,Disagree,Strongly Disagree,Agree,Disagree,Disagree,Disagree,Strongly Agree,Disagree
+61,18,7,188,US,2,2,Studying school abroad,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree
+62,37,1,172,ID,2,3,None,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Disagree,Disagree
+63,19,10,185,CN,1,2,Internship program,Strongly Disagree,Strongly Agree,,Strongly Disagree,Agree,Strongly Agree,Disagree,Strongly Agree
+64,34,10,170,PH,5,4,None,Agree,Strongly Disagree,Disagree,Agree,Strongly Disagree,Agree,Agree,Agree
+66,25,6,193,MX,4,3,Internship program,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Agree,Disagree
+67,20,8,156,CN,1,2,None,,,,,Strongly Disagree,Strongly Disagree,Agree,Agree
+68,35,9,165,PH,2,1,None,Agree,Strongly Agree,,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,
+69,21,2,165,PL,5,5,Studying school abroad,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Disagree,Disagree,Strongly Disagree,Strongly Disagree
+70,31,7,157,CN,5,5,Studying school abroad,Disagree,Disagree,Disagree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Disagree
+71,40,4,158,CN,2,1,Volunteer service,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Strongly Agree,Disagree
+72,22,3,157,CZ,2,1,Internship program,Agree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Disagree
+74,29,5,179,CO,3,4,None,Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree
+75,,7,186,LK,5,5,Studying school abroad,Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,
+76,40,1,196,ID,4,1,Internship program,Disagree,Disagree,,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree
+77,21,6,197,BE,1,2,Volunteer service,Strongly Agree,Strongly Disagree,,Strongly Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree
+78,30,6,171,CZ,1,1,None,Agree,Agree,Disagree,Agree,Agree,Strongly Agree,Agree,
+79,30,6,181,US,,,,Strongly Agree,Agree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree
+80,23,3,165,PL,1,5,Volunteer service,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree
+81,33,6,188,CN,2,4,Studying school abroad,Strongly Disagree,Agree,,Disagree,Strongly Disagree,Disagree,Agree,Strongly Disagree
+82,,5,172,DO,4,5,None,Disagree,Strongly Agree,,Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree
+83,33,3,174,CO,1,5,Volunteer service,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Agree,Disagree,
+84,28,9,167,BO,3,2,Internship program,Disagree,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Strongly Disagree
+85,33,2,165,ID,3,3,None,Strongly Disagree,Strongly Disagree,,Disagree,Strongly Agree,Agree,Disagree,Agree
+87,,3,197,CN,5,5,Volunteer service,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree
+88,30,7,164,VN,1,1,None,Strongly Disagree,Disagree,Strongly Agree,Agree,Disagree,Strongly Disagree,Agree,Strongly Disagree
+90,33,4,189,PL,3,4,Volunteer service,Disagree,Agree,,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Disagree
+91,28,9,199,RU,1,2,Internship program,Strongly Disagree,Strongly Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Agree
+92,23,1,174,PH,1,4,Studying school abroad,Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree
+93,40,5,194,CA,5,1,Volunteer service,Agree,Strongly Disagree,,Agree,Agree,Agree,Agree,Strongly Agree
+94,19,1,165,US,2,1,Volunteer service,,,Strongly Disagree,,Strongly Agree,Disagree,Agree,Agree
+95,35,7,177,RU,1,4,Studying school abroad,Strongly Agree,Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Agree,Disagree
+97,35,9,189,SI,3,4,None,Disagree,Agree,,Disagree,Disagree,Strongly Disagree,Agree,Agree
+98,37,8,192,CN,1,1,Volunteer service,Strongly Agree,Disagree,Disagree,Strongly Disagree,Agree,Agree,Agree,Agree
+99,21,6,199,PH,1,3,Internship program,Agree,Strongly Agree,Disagree,Agree,Agree,Agree,Agree,Strongly Disagree
+100,28,10,154,PE,3,3,None,Disagree,Strongly Agree,Disagree,Strongly Agree,Disagree,Agree,Strongly Agree,Strongly Agree
+101,30,5,176,ID,4,3,Studying school abroad,Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree
+102,37,6,176,PH,4,3,Volunteer service,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,Disagree,Strongly Agree,Strongly Agree
+104,30,9,176,LU,3,1,Studying school abroad,Disagree,Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Disagree,Agree
+105,31,3,171,CN,4,4,None,Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree
+106,20,1,196,PH,1,5,None,Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,Disagree,
+108,32,7,183,CN,3,5,None,Disagree,Agree,,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Disagree
+109,26,1,162,CN,3,2,Studying school abroad,Agree,Agree,,Agree,Agree,Agree,Strongly Disagree,Strongly Disagree
+110,27,3,169,ID,1,3,Volunteer service,Strongly Agree,Agree,,Strongly Agree,Disagree,Agree,Strongly Disagree,Agree
+111,32,4,194,FR,3,5,Internship program,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Disagree,Agree
+112,,7,184,EG,5,4,None,Disagree,Agree,Agree,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree
+113,36,3,150,CN,3,2,Internship program,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,Agree,Agree,Agree
+114,36,9,153,CN,2,1,Studying school abroad,Agree,Agree,Strongly Disagree,Agree,Agree,Strongly Agree,Disagree,Agree
+115,24,4,161,HU,2,4,Volunteer service,Disagree,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree
+116,33,3,196,IE,4,5,Studying school abroad,Disagree,Disagree,Agree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Disagree
+117,30,1,193,TH,2,2,Internship program,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Disagree,Disagree,Agree,Disagree
+118,,5,200,PE,1,4,Volunteer service,Strongly Agree,Strongly Agree,,Disagree,Strongly Agree,Strongly Agree,Disagree,
+119,18,9,170,ID,5,4,Volunteer service,Strongly Disagree,Strongly Disagree,Agree,Agree,Strongly Agree,Disagree,Agree,Agree
+120,25,3,160,KE,5,4,Studying school abroad,Strongly Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,Agree,Agree,Strongly Disagree
+121,18,2,175,ID,4,3,Volunteer service,Disagree,Agree,Agree,Strongly Agree,Disagree,Strongly Agree,Agree,Agree
+122,29,10,182,DE,,,,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Agree
+123,28,7,160,ID,5,4,Volunteer service,Disagree,Agree,Disagree,Disagree,Agree,Disagree,Strongly Agree,Strongly Agree
+124,31,10,182,JP,1,5,Studying school abroad,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree
+125,31,7,163,CN,,,,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Disagree,Agree,Strongly Disagree
+126,22,3,171,FI,5,5,Volunteer service,Disagree,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+127,28,7,197,BR,5,3,Studying school abroad,Disagree,Disagree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Disagree
+129,29,8,197,ID,2,4,Internship program,Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree
+130,19,6,157,CN,4,2,Internship program,Disagree,Strongly Disagree,,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree
+131,20,4,191,CN,5,1,None,Agree,Disagree,Agree,Disagree,Agree,Agree,Disagree,Strongly Disagree
+132,19,9,171,ID,4,3,Volunteer service,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Disagree
+133,29,5,184,CN,4,4,Volunteer service,Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree
+134,38,6,196,PE,1,3,Volunteer service,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree
+135,27,7,166,NL,4,2,Volunteer service,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,Disagree,Agree
+138,38,3,198,PH,2,1,Studying school abroad,Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,
+139,19,4,171,NG,5,3,Internship program,Strongly Agree,Agree,Disagree,Disagree,Disagree,Strongly Agree,Strongly Agree,Disagree
+140,38,8,166,PL,5,2,Studying school abroad,Disagree,Strongly Disagree,,Strongly Disagree,Strongly Agree,Disagree,Disagree,Strongly Disagree
+141,25,6,162,SE,2,1,None,Agree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Agree
+142,32,9,192,RU,2,1,Studying school abroad,,,Strongly Disagree,,Strongly Agree,Agree,Strongly Disagree,Strongly Agree
+145,28,9,171,ID,3,2,Volunteer service,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Agree
+146,,2,168,ID,3,2,Internship program,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree
+147,39,2,179,CN,1,2,Volunteer service,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Agree,Agree
+149,38,8,162,PE,4,5,Studying school abroad,,,,,Disagree,Strongly Disagree,Agree,Agree
+150,30,6,187,SD,2,4,Internship program,Disagree,Agree,Agree,Strongly Agree,Agree,Agree,Disagree,Disagree
+152,25,10,199,GR,5,2,Internship program,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Agree,Agree,
+153,37,7,193,TH,4,3,Studying school abroad,Disagree,Strongly Disagree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Disagree,
+154,34,3,198,CN,4,4,Internship program,Strongly Disagree,Agree,Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,Disagree
+155,20,6,181,DM,4,5,Studying school abroad,Disagree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,
+156,23,1,159,PT,3,1,None,Agree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Agree,Strongly Agree
+157,31,6,193,UA,1,5,Volunteer service,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Disagree
+158,38,7,152,PH,5,2,Volunteer service,Strongly Disagree,Disagree,Agree,Strongly Agree,Agree,Agree,Agree,Strongly Disagree
+159,22,2,151,CN,2,3,Internship program,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Disagree,Disagree,Agree,Disagree
+160,36,7,174,VN,3,5,Internship program,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree
+161,34,8,173,PL,1,4,None,Agree,Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+163,28,8,197,SI,3,5,Volunteer service,Disagree,Strongly Agree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree
+164,,2,182,EG,2,5,Internship program,Agree,Agree,,Disagree,Agree,Strongly Disagree,Agree,Strongly Disagree
+165,36,9,173,CN,4,1,Internship program,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,Agree
+166,29,7,168,CZ,1,5,Volunteer service,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,Agree
+168,20,8,199,CN,3,1,Volunteer service,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree
+169,31,8,153,PH,4,4,None,Strongly Disagree,Strongly Disagree,,Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree
+170,39,2,187,BR,5,4,Studying school abroad,,,Strongly Agree,,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree
+171,29,5,154,MN,2,3,Volunteer service,Strongly Disagree,Agree,Agree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Agree
+172,21,7,175,RU,1,4,Studying school abroad,,,Strongly Disagree,,Agree,Disagree,Agree,Strongly Disagree
+173,40,6,163,CN,1,1,Internship program,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Strongly Disagree,Strongly Disagree,Agree
+174,,5,182,AR,2,3,None,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Disagree,Agree,Disagree
+176,35,2,160,PH,1,3,Internship program,Strongly Agree,Strongly Disagree,,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree
+177,,8,160,CN,5,2,Internship program,Strongly Agree,Strongly Agree,,Strongly Disagree,Strongly Disagree,Agree,Disagree,
