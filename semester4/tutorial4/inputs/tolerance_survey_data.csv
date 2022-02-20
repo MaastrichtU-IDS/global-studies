@@ -1,0 +1,151 @@
+﻿id,age,height,country,language,freq_travel,q1,q2,q3,q4,q5,q6,q7,q8
+1,34,186,Spain,1,5,Agree,Agree,Agree,Agree,Neutral,Disagree,Neutral,Neutral
+2,34,157,BR,2,3,Strongly Agree,Agree,Neutral,Agree,Strongly Agree,Strongly Agree,Agree,Agree
+3,27,191,RU,4,2,Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree
+4,35,165,RU,3,5,Agree,Agree,Agree,Agree,Strongly Agree,Agree,Agree,Neutral
+5,34,164,ID,5,5,Strongly Agree,Agree,Strongly Agree,Neutral,Neutral,Agree,Agree,Strongly Agree
+6,,165,ID,3,3,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+8,32,222,ID,3,5,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree
+9,39,173,CN,4,5,Agree,Disagree,Strongly Disagree,Neutral,Strongly Disagree,Neutral,Disagree,Agree
+10,29,177,AL,2,1,,Agree,Neutral,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Neutral
+11,19,159,NI,2,4,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+12,18,188,UA,2,1,Disagree,Strongly Agree,Agree,Agree,Strongly Agree,Agree,Neutral,Strongly Agree
+14,,179,ID,3,1,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+15,38,169,CN,4,4,Neutral,Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neutral
+16,25,193,ID,4,3,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Agree
+17,23,175,CZ,2,4,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree
+19,28,185,DE,3,2,Strongly Agree,Strongly Agree,Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+20,19,161,PA,1,1,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Agree
+21,33,154,RU,,,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+22,36,153,RU,5,3,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+23,40,193,CN,5,1,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree
+24,,175,FR,1,1,Strongly Agree,Strongly Agree,Agree,Agree,Disagree,Agree,Strongly Agree,Strongly Agree
+25,31,176,AR,2,1,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree
+26,31,174,CA,5,4,Disagree,Disagree,Disagree,Strongly Agree,Strongly Agree,Agree,Neutral,Disagree
+28,31,173,RU,5,4,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree
+29,31,162,PH,4,5,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+30,21,185,BR,2,4,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree
+32,29,173,MN,5,2,Agree,Disagree,Strongly Agree,Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+33,,158,SE,1,5,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+35,38,179,PL,2,1,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Agree
+37,40,174,CN,3,2,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral
+38,22,187,BR,1,5,Strongly Disagree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+39,31,153,CZ,4,1,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+40,21,178,CN,5,2,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree
+41,33,192,CN,4,4,Neutral,Neutral,Neutral,Agree,Strongly Agree,Agree,Strongly Agree,Agree
+42,18,196,CN,2,1,Agree,Disagree,Neutral,Agree,Agree,Agree,Neutral,Neutral
+43,25,176,NL,,,Neutral,Neutral,Neutral,Neutral,Strongly Agree,Disagree,Disagree,Agree
+44,25,192,CN,5,2,Disagree,Disagree,Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neutral
+45,18,163,UA,5,3,Neutral,Neutral,Neutral,Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+46,25,163,BG,,,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+49,34,171,CN,5,5,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+50,35,190,CN,,,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Agree,Agree
+51,23,186,SY,3,5,Agree,Agree,Agree,Agree,Neutral,Strongly Agree,Disagree,Strongly Agree
+52,24,176,CN,2,3,Disagree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+53,18,157,PH,4,4,Agree,Agree,Neutral,Strongly Agree,Agree,Strongly Agree,Neutral,Neutral
+54,21,152,CN,4,1,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+55,26,183,JP,3,2,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree
+56,30,198,CN,4,1,Strongly Agree,Disagree,Agree,Strongly Agree,Neutral,Agree,Agree,Neutral
+58,33,172,ID,5,3,Agree,Agree,Agree,Strongly Agree,Agree,Neutral,Disagree,Neutral
+59,28,160,PS,5,5,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Neutral,Neutral,Strongly Agree,Neutral
+60,20,198,FR,4,1,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+61,18,188,US,2,2,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Neutral,Strongly Disagree
+62,37,172,ID,2,3,Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+63,19,185,CN,1,2,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neutral
+64,34,170,PH,5,4,Disagree,Strongly Agree,Disagree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Disagree
+66,25,193,MX,4,3,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+67,20,156,CN,1,2,Agree,Strongly Agree,Strongly Agree,Agree,Neutral,Strongly Agree,Strongly Agree,Agree
+68,35,165,PH,2,1,Agree,Neutral,Agree,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree
+69,21,165,PL,5,5,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+70,31,157,CN,5,5,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+71,40,158,CN,2,1,Agree,Agree,Agree,Neutral,Strongly Agree,Strongly Agree,Agree,Agree
+72,22,157,CZ,2,1,Neutral,Strongly Agree,Disagree,Neutral,Agree,Strongly Agree,Neutral,Disagree
+74,29,179,CO,3,4,Agree,Neutral,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Agree
+75,,186,LK,5,5,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,,Strongly Agree,Strongly Agree
+76,40,196,ID,4,1,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree
+77,21,197,BE,1,2,Strongly Agree,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+78,30,171,CZ,1,1,Neutral,Neutral,Neutral,,Agree,Strongly Agree,Agree,Strongly Agree
+79,30,181,US,,,Disagree,Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Disagree,Disagree
+80,23,165,PL,1,5,Agree,Disagree,Agree,Neutral,Disagree,Agree,Disagree,Disagree
+81,33,188,CN,2,4,Agree,Agree,Agree,Neutral,Agree,Strongly Agree,Strongly Agree,Agree
+82,,172,DO,4,5,Disagree,Neutral,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+83,33,174,CO,1,5,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+84,28,167,BO,3,2,Agree,Agree,,Agree,Strongly Agree,Disagree,Agree,Agree
+85,33,165,ID,3,3,Agree,Strongly Agree,Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree
+87,,197,CN,5,5,Neutral,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+88,30,164,VN,1,1,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+90,33,189,PL,3,4,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+91,28,199,RU,1,2,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+92,23,174,PH,1,4,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+93,40,194,CA,5,1,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,Disagree
+94,19,165,US,2,1,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Disagree,Neutral
+95,35,177,RU,1,4,Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+97,35,189,SI,3,4,Neutral,Strongly Agree,Strongly Disagree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree
+98,37,192,CN,1,1,Strongly Agree,Strongly Agree,Disagree,Agree,Strongly Agree,Neutral,Neutral,Agree
+99,21,199,PH,1,3,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+100,28,154,PE,3,3,Agree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+101,30,176,ID,4,3,Neutral,Neutral,Strongly Agree,Agree,Agree,Disagree,Strongly Agree,Agree
+102,37,176,PH,4,3,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree
+104,30,176,LU,3,1,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+105,31,171,CN,4,4,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Agree,Strongly Agree
+106,20,196,PH,1,5,Agree,Neutral,Agree,Agree,Strongly Agree,Neutral,Neutral,
+108,32,183,CN,3,5,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Agree
+109,26,162,CN,3,2,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+110,27,169,ID,1,3,Disagree,Strongly Agree,Disagree,Agree,Strongly Agree,Disagree,Disagree,Neutral
+111,32,194,FR,3,5,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+112,,184,EG,5,4,Disagree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Strongly Agree
+113,36,150,CN,3,2,Disagree,Disagree,Agree,Neutral,Neutral,Strongly Agree,Strongly Agree,Agree
+114,36,153,CN,2,1,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Disagree
+115,24,161,HU,2,4,Disagree,Neutral,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Agree
+116,33,196,IE,4,5,Strongly Disagree,Strongly Agree,Strongly Agree,Neutral,Disagree,Agree,Strongly Agree,Strongly Agree
+117,30,193,TH,2,2,Disagree,Neutral,Strongly Agree,Strongly Agree,Disagree,Agree,Disagree,Strongly Agree
+118,,200,PE,1,4,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neutral,Agree
+119,18,170,ID,5,4,Agree,Neutral,Strongly Agree,Agree,Agree,Agree,Neutral,Agree
+120,25,160,KE,5,4,Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+121,18,175,ID,4,3,Neutral,Neutral,Neutral,Agree,Strongly Agree,Disagree,Strongly Disagree,Disagree
+122,29,182,DE,,,Neutral,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree
+123,28,160,ID,5,4,Neutral,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Agree
+124,31,182,JP,1,5,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,,Strongly Agree
+125,31,163,CN,,,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Neutral,Strongly Agree,Neutral
+126,22,171,FI,5,5,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree
+127,28,197,BR,5,3,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Disagree
+129,29,197,ID,2,4,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree
+130,19,157,CN,4,2,Neutral,Disagree,Neutral,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+131,20,191,CN,5,1,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree
+132,19,171,ID,4,3,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+133,29,184,CN,4,4,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+134,38,196,PE,1,3,Disagree,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Disagree
+135,27,166,NL,4,2,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree
+138,38,198,PH,2,1,Disagree,Strongly Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree
+139,19,171,NG,5,3,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree
+140,38,166,PL,5,2,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+141,25,162,SE,2,1,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+142,32,192,RU,2,1,Neutral,Disagree,Disagree,Strongly Agree,Agree,Agree,Strongly Agree,Strongly Agree
+145,28,171,ID,3,2,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+146,,168,ID,3,2,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+147,39,179,CN,1,2,Strongly Agree,Strongly Agree,Neutral,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+149,38,162,PE,4,5,Neutral,Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+150,30,187,SD,2,4,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+152,25,199,GR,5,2,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree
+153,37,193,TH,4,3,Disagree,Disagree,Disagree,Strongly Agree,Strongly Agree,Disagree,Neutral,Agree
+154,34,198,CN,4,4,Neutral,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Neutral,Agree
+155,20,181,DM,4,5,Agree,Strongly Agree,Strongly Agree,Agree,Agree,Agree,Agree,Agree
+156,23,159,PT,3,1,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree,Strongly Agree
+157,31,193,UA,1,5,Neutral,Disagree,Neutral,Neutral,Neutral,Strongly Agree,Strongly Agree,Strongly Agree
+158,38,152,PH,5,2,Neutral,Disagree,Strongly Agree,Agree,Neutral,Agree,Agree,Agree
+159,22,151,CN,2,3,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral
+160,36,174,VN,3,5,Agree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Neutral
+161,34,173,PL,1,4,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Neutral
+163,28,197,SI,3,5,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+164,,182,EG,2,5,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+165,36,173,CN,4,1,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neutral,Disagree
+166,29,168,CZ,1,5,Strongly Disagree,Strongly Disagree,Neutral,Neutral,Strongly Disagree,Neutral,Neutral,Neutral
+168,20,199,CN,3,1,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Strongly Agree
+169,31,153,PH,4,4,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Agree
+170,39,187,BR,5,4,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Neutral,Disagree,Agree
+171,29,154,MN,2,3,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Neutral,Strongly Agree,Neutral
+172,21,175,RU,1,4,Neutral,Neutral,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree
+173,40,163,CN,1,1,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+174,,182,AR,2,3,Agree,Agree,Agree,Strongly Agree,Agree,Agree,Agree,Strongly Agree
+176,35,160,PH,1,3,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neutral,Agree,Agree,Strongly Agree
+177,,160,CN,5,2,Strongly Disagree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
